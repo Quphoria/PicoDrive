@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPD060N03LGATMA1
+D MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V
+K
+F https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f
+$ENDCMP
+#
+#End Doc Library

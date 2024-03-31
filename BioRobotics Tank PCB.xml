@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\BioRobotics Tank PCB.kicad_sch</source>
-    <date>31/03/2024 16:40:46</date>
+    <date>31/03/2024 18:12:45</date>
     <tool>Eeschema (7.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -277,8 +277,12 @@
     </comp>
     <comp ref="J5">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -288,8 +292,12 @@
     </comp>
     <comp ref="J6">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -299,8 +307,12 @@
     </comp>
     <comp ref="J7">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -311,7 +323,11 @@
     <comp ref="J8">
       <value>Conn_02x05_Odd_Even</value>
       <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Mfr. No">61201021621</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="61201021621"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -368,11 +384,13 @@
       <footprint>P78E03-1000:CONV_P78E03-1000</footprint>
       <fields>
         <field name="MANUFACTURER">CUI Inc</field>
+        <field name="Mfr. No">P78E03-1000</field>
         <field name="STANDARD">Manufacturer Recommendations</field>
       </fields>
       <libsource lib="P78E03-1000" part="P78E03-1000" description=""/>
       <property name="STANDARD" value="Manufacturer Recommendations"/>
       <property name="MANUFACTURER" value="CUI Inc"/>
+      <property name="Mfr. No" value="P78E03-1000"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -388,6 +406,7 @@
         <field name="Height">2.5</field>
         <field name="Manufacturer_Name">Infineon</field>
         <field name="Manufacturer_Part_Number">IPD060N03LGATMA1</field>
+        <field name="Mfr. No">IPD060N03LGATMA1</field>
         <field name="Mouser Part Number">726-IPD060N03LGATMA1</field>
         <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D</field>
       </fields>
@@ -399,6 +418,7 @@
       <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D"/>
       <property name="Arrow Part Number" value="IPD060N03LGATMA1"/>
       <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac"/>
+      <property name="Mfr. No" value="IPD060N03LGATMA1"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V"/>
@@ -570,7 +590,11 @@
       <value>LTC4357MS8</value>
       <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">LTC4357CMS8#PBF</field>
+      </fields>
       <libsource lib="Power_Management" part="LTC4357MS8" description="Ideal diode controller, 9-80V operation, MSOP-8"/>
+      <property name="Mfr. No" value="LTC4357CMS8#PBF"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Ideal diode controller, 9-80V operation, MSOP-8"/>
@@ -671,8 +695,12 @@
     </comp>
     <comp ref="J1">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -714,7 +742,11 @@
       <value>DRV8801PWP</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">DRV8801PWP</field>
+      </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Mfr. No" value="DRV8801PWP"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -799,8 +831,12 @@
     </comp>
     <comp ref="J2">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -842,7 +878,11 @@
       <value>DRV8801PWP</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">DRV8801PWP</field>
+      </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Mfr. No" value="DRV8801PWP"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -927,8 +967,12 @@
     </comp>
     <comp ref="J3">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -970,7 +1014,11 @@
       <value>DRV8801PWP</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">DRV8801PWP</field>
+      </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Mfr. No" value="DRV8801PWP"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -1055,8 +1103,12 @@
     </comp>
     <comp ref="J4">
       <value>Conn_01x02</value>
-      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
+      <fields>
+        <field name="Mfr. No">TB009-508-02BE</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mfr. No" value="TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -1098,7 +1150,11 @@
       <value>DRV8801PWP</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">DRV8801PWP</field>
+      </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Mfr. No" value="DRV8801PWP"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>

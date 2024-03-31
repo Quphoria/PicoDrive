@@ -1,0 +1,1927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\BioRobotics Tank PCB.kicad_sch</source>
+    <date>31/03/2024 13:09:18</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BioRobotics Tank PCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Motor Driver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Motor Driver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Motor Driver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Motor Driver.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>937f9848-1b3e-4d4b-9e31-4bba91abeeb0</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71dc37ae-4db3-46e1-9ce0-e84bddd8deee</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Mfr. No">UVZ1J101MPD</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73ea6ca1-938a-48c2-b7e5-796505ed568e</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e154c84f-10ed-4cd2-b8d8-6a7601d95bd8</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>badfb102-5f50-43d8-9dc9-f939c2bc7156</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d07ccb2-1e9b-483a-b1f8-009b4a05cb05</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d1635c2-6e3b-4b97-865f-23de70f866ab</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a7a5c3e-25bb-4812-95dc-1cf890a67129</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a7e84f7-8c93-4370-9959-350830c63b9c</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1da1d0ac-2fc3-4345-a431-009aa0eb6ba0</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5248561-1d31-46d1-8b3d-d0b4e94c47d6</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>799311ea-cc65-4eae-878c-813c2f437206</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9406789-a598-4f16-86a4-1e5b57b1398d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d8fe0f2-d18c-40e7-9c66-d22903381f07</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edb533f0-cf22-43f7-ba50-f6da5f50df90</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c85e4604-770e-4d1e-a368-817b98cbff7a</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93bf480a-b6a6-47fe-9cb0-98f55aeec685</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x05</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0168f78-4484-4e90-84de-b05fd2b92341</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_3_Bridged12</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0293497-1812-4878-8e9e-15e740b341b1</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_3_Bridged12</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46b90fa1-5f28-4e2d-8146-453873c5141a</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_3_Bridged12</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="ki_keywords" value="Solder Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db8bc0e5-bca6-4de7-8a6e-cb56efba5654</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>P78E03-1000</value>
+      <footprint>P78E03-1000:CONV_P78E03-1000</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Inc</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="P78E03-1000" part="P78E03-1000" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="CUI Inc"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>263196c2-0eb7-4a78-95e1-646a37a335ca</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IPD060N03LGATMA1</value>
+      <footprint>IPD060N03LGATMA1:IPD060N03LGATMA1</footprint>
+      <datasheet>https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f</datasheet>
+      <fields>
+        <field name="Arrow Part Number">IPD060N03LGATMA1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac</field>
+        <field name="Height">2.5</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IPD060N03LGATMA1</field>
+        <field name="Mouser Part Number">726-IPD060N03LGATMA1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D</field>
+      </fields>
+      <libsource lib="IPD060N03LGATMA1" part="IPD060N03LGATMA1" description="MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V"/>
+      <property name="Height" value="2.5"/>
+      <property name="Manufacturer_Name" value="Infineon"/>
+      <property name="Manufacturer_Part_Number" value="IPD060N03LGATMA1"/>
+      <property name="Mouser Part Number" value="726-IPD060N03LGATMA1"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D"/>
+      <property name="Arrow Part Number" value="IPD060N03LGATMA1"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bfd0050-255b-46bb-9843-1c57fe53a571</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1.65k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRCW08051K65FKEA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRCW08051K65FKEA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da87ae84-8984-46b2-93f3-a8669ddb582e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1.65k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRCW08051K65FKEA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRCW08051K65FKEA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>414f9b67-e7f0-4948-bc16-ed4c0aff7b34</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">RCC0805100RFKEA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="RCC0805100RFKEA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3245699d-33a1-46dc-b53c-2229872a9f03</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0.005</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">MSMA2512R0050FEN</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="MSMA2512R0050FEN"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97dc2dcc-eb1a-4141-a885-3b29f674f3f4</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">RCC080510R0FKEA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="RCC080510R0FKEA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>938cf5f7-68d9-4cb4-94ad-2fba351c5f40</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">RCC080510R0FKEA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="RCC080510R0FKEA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1728471d-c996-426a-a667-ff98a5fdfee0</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dcef37f-62ed-4f5b-b6fc-a83f7a03fb4a</tstamps>
+    </comp>
+    <comp ref="RN1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <fields>
+        <field name="Mfr. No">YC324-JK-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <property name="Mfr. No" value="YC324-JK-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="4 resistor network, parallel topology"/>
+      <property name="ki_keywords" value="R network parallel topology isolated"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69e19a95-9597-4dc2-a94a-d0efb258694c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>rp2040-zero</value>
+      <footprint>KLEEB_mcu:rp2040-zero-tht</footprint>
+      <libsource lib="KLEEB_mcu" part="rp2040-zero" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2d300b2-e0f2-47eb-8a7d-a04b8b9e660d</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TCA9554DB</value>
+      <footprint>Package_SO:SSOP-16_5.3x6.2mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tca9554.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">TCA9554DWR</field>
+      </fields>
+      <libsource lib="Interface_Expansion" part="TCA9554DB" description="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
+      <property name="Mfr. No" value="TCA9554DWR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
+      <property name="ki_keywords" value="SMBUS I2C Expander"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00bd70cb-d04a-4fbd-8abf-3366c99c7220</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TCA9554DB</value>
+      <footprint>Package_SO:SSOP-16_5.3x6.2mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tca9554.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">TCA9554DWR</field>
+      </fields>
+      <libsource lib="Interface_Expansion" part="TCA9554DB" description="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
+      <property name="Mfr. No" value="TCA9554DWR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
+      <property name="ki_keywords" value="SMBUS I2C Expander"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>902c5e97-0a3b-4b6c-ae5c-3fbbee07910e</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>LTC4357MS8</value>
+      <footprint>Package_SO:MSOP-8_3x3mm_P0.65mm</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf</datasheet>
+      <libsource lib="Power_Management" part="LTC4357MS8" description="Ideal diode controller, 9-80V operation, MSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Ideal diode controller, 9-80V operation, MSOP-8"/>
+      <property name="ki_keywords" value="ideal-diode or-ing"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>985b90db-3c51-4432-adc3-a84136551745</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>INA219BIDR</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
+      <fields>
+        <field name="Mfr. No">INA219BIDR</field>
+      </fields>
+      <libsource lib="Sensor_Energy" part="INA219BxD" description="Zero-Drift, HighAccuracy, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="Mfr. No" value="INA219BIDR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="ki_description" value="Zero-Drift, HighAccuracy, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
+      <property name="ki_keywords" value="ADC I2C 16-Bit Oversampling Current Shunt"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5710cb31-947f-4454-9b58-c8e35470464b</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>020851db-b243-4f39-aa9a-4f18dce88f5d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>57fe435c-d220-40c3-ac4a-77aa8ff38ec1</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Mfr. No">UVZ1J101MPD</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>9680aa31-4459-46fe-8037-7e028a777dc9</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>0746a474-d6b7-48e1-8bd7-ba5a724adad3</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1000pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KAF21BR72D102MT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>02baeb69-c6b7-4acf-a2ea-bf056f11090c</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>349e4f94-9555-48e0-ad9a-5e8c66d79230</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0.2</value>
+      <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">ERJ-D1CFR200U</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>c8f020f4-98ce-48a2-8a5c-6f2360d72e2c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>DRV8801PWP</value>
+      <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Sheetname" value="Motor 1 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="ki_keywords" value="H-Bridge Motor Driver"/>
+      <sheetpath names="/Motor 1 Driver/" tstamps="/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa/"/>
+      <tstamps>f2d57620-c354-42b0-b0e6-042bff11d027</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Mfr. No">UVZ1J101MPD</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>9680aa31-4459-46fe-8037-7e028a777dc9</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>020851db-b243-4f39-aa9a-4f18dce88f5d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>0746a474-d6b7-48e1-8bd7-ba5a724adad3</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>57fe435c-d220-40c3-ac4a-77aa8ff38ec1</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1000pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KAF21BR72D102MT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>02baeb69-c6b7-4acf-a2ea-bf056f11090c</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>349e4f94-9555-48e0-ad9a-5e8c66d79230</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>0.2</value>
+      <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">ERJ-D1CFR200U</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>c8f020f4-98ce-48a2-8a5c-6f2360d72e2c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>DRV8801PWP</value>
+      <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Sheetname" value="Motor 2 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="ki_keywords" value="H-Bridge Motor Driver"/>
+      <sheetpath names="/Motor 2 Driver/" tstamps="/a65e5353-4be6-414a-8225-04b1dd46f16e/"/>
+      <tstamps>f2d57620-c354-42b0-b0e6-042bff11d027</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Mfr. No">UVZ1J101MPD</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>9680aa31-4459-46fe-8037-7e028a777dc9</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>020851db-b243-4f39-aa9a-4f18dce88f5d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>0746a474-d6b7-48e1-8bd7-ba5a724adad3</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>57fe435c-d220-40c3-ac4a-77aa8ff38ec1</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1000pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KAF21BR72D102MT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>02baeb69-c6b7-4acf-a2ea-bf056f11090c</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>349e4f94-9555-48e0-ad9a-5e8c66d79230</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>0.2</value>
+      <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">ERJ-D1CFR200U</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>c8f020f4-98ce-48a2-8a5c-6f2360d72e2c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>DRV8801PWP</value>
+      <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Sheetname" value="Motor 3 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="ki_keywords" value="H-Bridge Motor Driver"/>
+      <sheetpath names="/Motor 3 Driver/" tstamps="/917f7088-b2e9-4770-ad29-156eaf4e2242/"/>
+      <tstamps>f2d57620-c354-42b0-b0e6-042bff11d027</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Mfr. No">UVZ1J101MPD</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>9680aa31-4459-46fe-8037-7e028a777dc9</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>020851db-b243-4f39-aa9a-4f18dce88f5d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>0746a474-d6b7-48e1-8bd7-ba5a724adad3</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KGM21NR71E104KT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>57fe435c-d220-40c3-ac4a-77aa8ff38ec1</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1000pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">KAF21BR72D102MT</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>02baeb69-c6b7-4acf-a2ea-bf056f11090c</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>349e4f94-9555-48e0-ad9a-5e8c66d79230</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0.2</value>
+      <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">ERJ-D1CFR200U</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>c8f020f4-98ce-48a2-8a5c-6f2360d72e2c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>DRV8801PWP</value>
+      <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
+      <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="Sheetname" value="Motor 4 Driver"/>
+      <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
+      <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
+      <property name="ki_keywords" value="H-Bridge Motor Driver"/>
+      <sheetpath names="/Motor 4 Driver/" tstamps="/05b32763-3ed9-4afa-8241-412ea6f0290d/"/>
+      <tstamps>f2d57620-c354-42b0-b0e6-042bff11d027</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Pack04">
+      <description>4 resistor network, parallel topology</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>SOIC*</fp>
+        <fp>R*Array*Concave*</fp>
+        <fp>R*Array*Convex*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Pack04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="R1.1" type="passive"/>
+        <pin num="2" name="R2.1" type="passive"/>
+        <pin num="3" name="R3.1" type="passive"/>
+        <pin num="4" name="R4.1" type="passive"/>
+        <pin num="5" name="R4.2" type="passive"/>
+        <pin num="6" name="R3.2" type="passive"/>
+        <pin num="7" name="R2.2" type="passive"/>
+        <pin num="8" name="R1.2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_Motor" part="DRV8801PWP">
+      <description>H-Bridge Motor Driver, TSSOP-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/drv8801.pdf</docs>
+      <footprints>
+        <fp>*TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV8801PWP</field>
+        <field name="Footprint">Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/drv8801.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{FAULT}" type="open_collector"/>
+        <pin num="2" name="MODE1" type="input"/>
+        <pin num="3" name="PHASE" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="~{SLEEP}" type="input"/>
+        <pin num="6" name="ENABLE" type="input"/>
+        <pin num="7" name="OUT+" type="power_out"/>
+        <pin num="8" name="SENSE" type="power_out"/>
+        <pin num="9" name="VBB" type="power_in"/>
+        <pin num="10" name="OUT-" type="power_out"/>
+        <pin num="11" name="CP1" type="power_in"/>
+        <pin num="12" name="CP2" type="power_in"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="VCP" type="power_in"/>
+        <pin num="15" name="VPROPI" type="output"/>
+        <pin num="16" name="MODE2" type="input"/>
+        <pin num="17" name="GND(PPAD)" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="IPD060N03LGATMA1" part="IPD060N03LGATMA1">
+      <description>MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V</description>
+      <docs>https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IPD060N03LGATMA1</field>
+        <field name="Footprint">IPD060N03LGATMA1:IPD060N03LGATMA1</field>
+        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f</field>
+        <field name="Height">2.5</field>
+        <field name="Manufacturer_Name">Infineon</field>
+        <field name="Manufacturer_Part_Number">IPD060N03LGATMA1</field>
+        <field name="Mouser Part Number">726-IPD060N03LGATMA1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D</field>
+        <field name="Arrow Part Number">IPD060N03LGATMA1</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="TCA9554DB">
+      <description>8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tca9554.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TCA9554DB</field>
+        <field name="Footprint">Package_SO:SSOP-16_5.3x6.2mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tca9554.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="P0" type="bidirectional"/>
+        <pin num="5" name="P1" type="bidirectional"/>
+        <pin num="6" name="P2" type="bidirectional"/>
+        <pin num="7" name="P3" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="P4" type="bidirectional"/>
+        <pin num="10" name="P5" type="bidirectional"/>
+        <pin num="11" name="P6" type="bidirectional"/>
+        <pin num="12" name="P7" type="bidirectional"/>
+        <pin num="13" name="~{INT}" type="open_collector"/>
+        <pin num="14" name="SCL" type="input"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Bridged12">
+      <description>3-pole Solder Jumper, pins 1+2 closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged12*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Bridged12</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="KLEEB_mcu" part="rp2040-zero">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">rp2040-zero</field>
+      </fields>
+      <pins>
+        <pin num="1" name="0" type="bidirectional"/>
+        <pin num="2" name="1" type="bidirectional"/>
+        <pin num="3" name="2" type="bidirectional"/>
+        <pin num="4" name="3" type="bidirectional"/>
+        <pin num="5" name="4" type="bidirectional"/>
+        <pin num="6" name="5" type="bidirectional"/>
+        <pin num="7" name="6" type="bidirectional"/>
+        <pin num="8" name="7" type="bidirectional"/>
+        <pin num="9" name="8" type="bidirectional"/>
+        <pin num="10" name="9" type="bidirectional"/>
+        <pin num="11" name="10" type="bidirectional"/>
+        <pin num="12" name="11" type="bidirectional"/>
+        <pin num="13" name="12" type="bidirectional"/>
+        <pin num="14" name="13" type="bidirectional"/>
+        <pin num="15" name="14" type="bidirectional"/>
+        <pin num="16" name="15" type="bidirectional"/>
+        <pin num="17" name="26" type="bidirectional"/>
+        <pin num="18" name="27" type="bidirectional"/>
+        <pin num="19" name="28" type="bidirectional"/>
+        <pin num="20" name="29" type="bidirectional"/>
+        <pin num="21" name="3V3" type="power_out"/>
+        <pin num="22" name="GND" type="power_out"/>
+        <pin num="23" name="5V" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="P78E03-1000" part="P78E03-1000">
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">P78E03-1000</field>
+        <field name="Footprint">P78E03-1000:CONV_P78E03-1000</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">CUI Inc</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+VIN" type="input"/>
+        <pin num="2" name="GND/-VOUT" type="power_in"/>
+        <pin num="3" name="+VOUT/GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Management" part="LTC4357MS8">
+      <description>Ideal diode controller, 9-80V operation, MSOP-8</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf</docs>
+      <footprints>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC4357MS8</field>
+        <field name="Footprint">Package_SO:MSOP-8_3x3mm_P0.65mm</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="GATE" type="output"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="Vdd" type="power_in"/>
+        <pin num="8" name="OUT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Energy" part="INA219BxD">
+      <description>Zero-Drift, HighAccuracy, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ina219.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA219BxD</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina219.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="SDA" type="bidirectional"/>
+        <pin num="4" name="SCL" type="input"/>
+        <pin num="5" name="VS" type="power_in"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="IN-" type="input"/>
+        <pin num="8" name="IN+" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_Motor">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Driver_Motor.kicad_sym</uri>
+    </library>
+    <library logical="IPD060N03LGATMA1">
+      <uri>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB/libraries/IPD060N03LGATMA1/IPD060N03LGATMA1.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Interface_Expansion.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="KLEEB_mcu">
+      <uri>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB/libraries/kleeb/mcu.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="P78E03-1000">
+      <uri>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB/libraries/P78E03-1000/P78E03-1000.kicad_sym</uri>
+    </library>
+    <library logical="Power_Management">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Power_Management.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Energy">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Sensor_Energy.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="PS1" pin="3" pinfunction="+VOUT/GND" pintype="power_in"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="3V3" pintype="power_out"/>
+      <node ref="U6" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U7" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U9" pin="1" pinfunction="A1" pintype="input"/>
+      <node ref="U9" pin="5" pinfunction="VS" pintype="power_in"/>
+    </net>
+    <net code="2" name="+BATT">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="3" name="/EXP_IO_0">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U6" pin="9" pinfunction="P4" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/EXP_IO_1">
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U6" pin="10" pinfunction="P5" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/EXP_IO_2">
+      <node ref="J9" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U6" pin="11" pinfunction="P6" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/EXP_SCL">
+      <node ref="J8" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="5" pintype="bidirectional"/>
+      <node ref="U6" pin="14" pinfunction="SCL" pintype="input"/>
+      <node ref="U7" pin="14" pinfunction="SCL" pintype="input"/>
+      <node ref="U9" pin="4" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="7" name="/EXP_SDA">
+      <node ref="J8" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="4" pintype="bidirectional"/>
+      <node ref="U6" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U7" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U9" pin="3" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/GPIO7">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="7" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/GPIO8">
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="8" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/GPIO9">
+      <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="9" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/GPIO10">
+      <node ref="J8" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="10" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/GPIO11">
+      <node ref="J8" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="11" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/M1_EN">
+      <node ref="U1" pin="13" pinfunction="12" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="ENABLE" pintype="input"/>
+    </net>
+    <net code="14" name="/M1_MODE1">
+      <node ref="U2" pin="2" pinfunction="MODE1" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="P0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/M1_MODE2">
+      <node ref="U2" pin="16" pinfunction="MODE2" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="P1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/M1_PH">
+      <node ref="U1" pin="14" pinfunction="13" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="PHASE" pintype="input"/>
+    </net>
+    <net code="17" name="/M1_VPROPI">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="26" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/M2_EN">
+      <node ref="U1" pin="15" pinfunction="14" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="ENABLE" pintype="input"/>
+    </net>
+    <net code="19" name="/M2_MODE1">
+      <node ref="U3" pin="2" pinfunction="MODE1" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="P2" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/M2_MODE2">
+      <node ref="U3" pin="16" pinfunction="MODE2" pintype="input"/>
+      <node ref="U7" pin="7" pinfunction="P3" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/M2_PH">
+      <node ref="U1" pin="16" pinfunction="15" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="PHASE" pintype="input"/>
+    </net>
+    <net code="22" name="/M2_VPROPI">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="27" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/M3_EN">
+      <node ref="U1" pin="1" pinfunction="0" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="ENABLE" pintype="input"/>
+    </net>
+    <net code="24" name="/M3_MODE1">
+      <node ref="U4" pin="2" pinfunction="MODE1" pintype="input"/>
+      <node ref="U7" pin="9" pinfunction="P4" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/M3_MODE2">
+      <node ref="U4" pin="16" pinfunction="MODE2" pintype="input"/>
+      <node ref="U7" pin="10" pinfunction="P5" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/M3_PH">
+      <node ref="U1" pin="2" pinfunction="1" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="PHASE" pintype="input"/>
+    </net>
+    <net code="27" name="/M3_VPROPI">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="28" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/M4_EN">
+      <node ref="U1" pin="3" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pinfunction="ENABLE" pintype="input"/>
+    </net>
+    <net code="29" name="/M4_MODE1">
+      <node ref="U5" pin="2" pinfunction="MODE1" pintype="input"/>
+      <node ref="U7" pin="11" pinfunction="P6" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/M4_MODE2">
+      <node ref="U5" pin="16" pinfunction="MODE2" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="P7" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/M4_PH">
+      <node ref="U1" pin="4" pinfunction="3" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="PHASE" pintype="input"/>
+    </net>
+    <net code="32" name="/M4_VPROPI">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="29" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/Motor 1 Driver/OUT+">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="OUT+" pintype="power_out"/>
+    </net>
+    <net code="34" name="/Motor 1 Driver/OUT-">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="OUT-" pintype="power_out"/>
+    </net>
+    <net code="35" name="/Motor 1 Driver/SENSE">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="SENSE" pintype="power_out"/>
+    </net>
+    <net code="36" name="/Motor 2 Driver/OUT+">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="OUT+" pintype="power_out"/>
+    </net>
+    <net code="37" name="/Motor 2 Driver/OUT-">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="OUT-" pintype="power_out"/>
+    </net>
+    <net code="38" name="/Motor 2 Driver/SENSE">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="SENSE" pintype="power_out"/>
+    </net>
+    <net code="39" name="/Motor 3 Driver/OUT+">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="OUT+" pintype="power_out"/>
+    </net>
+    <net code="40" name="/Motor 3 Driver/OUT-">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="OUT-" pintype="power_out"/>
+    </net>
+    <net code="41" name="/Motor 3 Driver/SENSE">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="SENSE" pintype="power_out"/>
+    </net>
+    <net code="42" name="/Motor 4 Driver/OUT+">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="OUT+" pintype="power_out"/>
+    </net>
+    <net code="43" name="/Motor 4 Driver/OUT-">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="OUT-" pintype="power_out"/>
+    </net>
+    <net code="44" name="/Motor 4 Driver/SENSE">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="SENSE" pintype="power_out"/>
+    </net>
+    <net code="45" name="/~{EXP1_INT}">
+      <node ref="U1" pin="7" pinfunction="6" pintype="bidirectional"/>
+      <node ref="U6" pin="13" pinfunction="~{INT}" pintype="open_collector"/>
+    </net>
+    <net code="46" name="/~{M1_FAULT}">
+      <node ref="RN1" pin="8" pinfunction="R1.2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="~{FAULT}" pintype="open_collector"/>
+      <node ref="U6" pin="4" pinfunction="P0" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/~{M2_FAULT}">
+      <node ref="RN1" pin="7" pinfunction="R2.2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="~{FAULT}" pintype="open_collector"/>
+      <node ref="U6" pin="5" pinfunction="P1" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/~{M3_FAULT}">
+      <node ref="RN1" pin="6" pinfunction="R3.2" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="~{FAULT}" pintype="open_collector"/>
+      <node ref="U6" pin="6" pinfunction="P2" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/~{M4_FAULT}">
+      <node ref="RN1" pin="5" pinfunction="R4.2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="~{FAULT}" pintype="open_collector"/>
+      <node ref="U6" pin="7" pinfunction="P3" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/~{M_SLEEP}">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="~{SLEEP}" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="~{SLEEP}" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="~{SLEEP}" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="~{SLEEP}" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="P7" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="GND1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="GND/-VOUT" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="RN1" pin="1" pinfunction="R1.1" pintype="passive"/>
+      <node ref="RN1" pin="2" pinfunction="R2.1" pintype="passive"/>
+      <node ref="RN1" pin="3" pinfunction="R3.1" pintype="passive"/>
+      <node ref="RN1" pin="4" pinfunction="R4.1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GND" pintype="power_out"/>
+      <node ref="U2" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="17" pinfunction="GND(PPAD)" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="17" pinfunction="GND(PPAD)" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="17" pinfunction="GND(PPAD)" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="17" pinfunction="GND(PPAD)" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U6" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="6" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="52" name="Net-(JP1-C)">
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(JP2-C)">
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(JP3-C)">
+      <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="GATE" pintype="output"/>
+    </net>
+    <net code="56" name="Net-(U2-CP1)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="CP1" pintype="power_in"/>
+    </net>
+    <net code="57" name="Net-(U2-CP2)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="CP2" pintype="power_in"/>
+    </net>
+    <net code="58" name="Net-(U2-VCP)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="VCP" pintype="power_in"/>
+    </net>
+    <net code="59" name="Net-(U2-VPROPI)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="VPROPI" pintype="output"/>
+    </net>
+    <net code="60" name="Net-(U3-CP1)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="CP1" pintype="power_in"/>
+    </net>
+    <net code="61" name="Net-(U3-CP2)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="CP2" pintype="power_in"/>
+    </net>
+    <net code="62" name="Net-(U3-VCP)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="VCP" pintype="power_in"/>
+    </net>
+    <net code="63" name="Net-(U3-VPROPI)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="VPROPI" pintype="output"/>
+    </net>
+    <net code="64" name="Net-(U4-CP1)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="CP1" pintype="power_in"/>
+    </net>
+    <net code="65" name="Net-(U4-CP2)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="CP2" pintype="power_in"/>
+    </net>
+    <net code="66" name="Net-(U4-VCP)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="VCP" pintype="power_in"/>
+    </net>
+    <net code="67" name="Net-(U4-VPROPI)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="VPROPI" pintype="output"/>
+    </net>
+    <net code="68" name="Net-(U5-CP1)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="U5" pin="11" pinfunction="CP1" pintype="power_in"/>
+    </net>
+    <net code="69" name="Net-(U5-CP2)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="CP2" pintype="power_in"/>
+    </net>
+    <net code="70" name="Net-(U5-VCP)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="U5" pin="14" pinfunction="VCP" pintype="power_in"/>
+    </net>
+    <net code="71" name="Net-(U5-VPROPI)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="VPROPI" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(U8-Vdd)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="Vdd" pintype="power_in"/>
+    </net>
+    <net code="73" name="Net-(U9-IN+)">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(U9-IN-)">
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="75" name="VBUS">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="OUT" pintype="input"/>
+    </net>
+    <net code="76" name="Vdrive">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="+VIN" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="VBB" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="VBB" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="VBB" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="VBB" pintype="power_in"/>
+    </net>
+    <net code="77" name="unconnected-(U1-5V-Pad23)">
+      <node ref="U1" pin="23" pinfunction="5V" pintype="power_out"/>
+    </net>
+    <net code="78" name="unconnected-(U7-~{INT}-Pad13)">
+      <node ref="U7" pin="13" pinfunction="~{INT}" pintype="open_collector"/>
+    </net>
+    <net code="79" name="unconnected-(U8-NC-Pad2)">
+      <node ref="U8" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(U8-NC-Pad3)">
+      <node ref="U8" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(U8-NC-Pad6)">
+      <node ref="U8" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

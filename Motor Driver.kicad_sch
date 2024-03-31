@@ -924,6 +924,9 @@
     (property "Datasheet" "~" (at 31.75 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mfr. No" "UVZ1J101MPD" (at 31.75 30.48 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid fff4bfd3-599b-4882-abba-e7a4edaf4a36))
     (pin "2" (uuid 11ce459b-dea3-425a-b939-08216261a4c3))
     (instances

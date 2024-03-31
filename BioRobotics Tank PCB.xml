@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\BioRobotics Tank PCB.kicad_sch</source>
-    <date>31/03/2024 13:09:18</date>
+    <date>31/03/2024 16:40:46</date>
     <tool>Eeschema (7.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -100,10 +100,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -115,10 +115,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -145,10 +145,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -160,10 +160,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -175,10 +175,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -190,10 +190,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -205,10 +205,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -220,10 +220,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -598,10 +598,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -613,10 +613,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -643,10 +643,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -741,10 +741,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -756,10 +756,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -771,10 +771,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -869,10 +869,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -884,10 +884,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -899,10 +899,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -997,10 +997,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1012,10 +1012,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1027,10 +1027,10 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
-        <field name="Mfr. No">KGM21NR71E104KT</field>
+        <field name="Mfr. No">08055C104JAT2A</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Mfr. No" value="KGM21NR71E104KT"/>
+      <property name="Mfr. No" value="08055C104JAT2A"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>

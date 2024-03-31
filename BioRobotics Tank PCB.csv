@@ -1,5 +1,5 @@
 "#","Reference","Qty","Value","Footprint","DNP","Mfr. No"
-"1","C1, C2, C4, C6, C7, C8, C10, C11, C12, C14, C15, C16, C17, C18, C24, C25, C26, C27, C28, C29","20","0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","","KGM21NR71E104KT"
+"1","C1, C2, C4, C6, C7, C8, C10, C11, C12, C14, C15, C16, C17, C18, C24, C25, C26, C27, C28, C29","20","0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","","08055C104JAT2A"
 "2","C3, C5, C9, C13, C23","5","100uF","Capacitor_THT:CP_Radial_D10.0mm_P5.00mm","","UVZ1J101MPD"
 "3","C19, C20, C21, C22","4","1000pF","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","","KAF21BR72D102MT"
 "4","H1, H2, H3, H4","4","MountingHole","MountingHole:MountingHole_4.3mm_M4","",""

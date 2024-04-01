@@ -18,7 +18,7 @@
 167.0,-144.25,90.0,top,C24,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
 148.5,-95.0,90.0,top,C25,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
 145.5,-95.0,-90.0,top,C26,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
-140.97,-78.25,-90.0,top,C27,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
+146.5,-82.5,0.0,top,C27,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
 172.5,-81.9625,90.0,top,C28,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
 165.0125,-74.0,0.0,top,C29,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,0.1uF,smt,True
 172.75,-90.864999,0.0,top,C3,,CP_Radial_D10.0mm_P5.00mm,100uF,tht,True
@@ -45,10 +45,10 @@
 163.5,-111.025,-90.0,top,JP2,,SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,SolderJumper_3_Bridged12,tht,True
 161.55,-79.55,90.0,top,JP3,,SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,SolderJumper_3_Bridged12,tht,True
 150.25,-89.8875,0.0,top,PS1,,CONV_P78E03-1000,P78E03-1000,tht,True
-150.75,-77.45,180.0,top,Q1,,IPD060N03LGATMA1,IPD060N03LGATMA1,smt,True
+151.55,-76.5,0.0,top,Q1,,LFPAK56,PSMN4R5-30YLC,smt,True
 186.000001,-96.8275,90.0,top,R1,,R_1020_2550Metric_Pad1.33x5.20mm_HandSolder,0.2,smt,True
 133.5,-84.8,180.0,top,R10,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10k,smt,True
-144.47,-80.75,0.0,top,R11,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,100,smt,True
+157.25,-81.5,0.0,top,R11,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,100,smt,True
 165.0,-68.25,0.0,top,R12,,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,0.005,smt,True
 168.3,-73.0,-90.0,top,R13,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,smt,True
 161.8,-73.0,-90.0,top,R14,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,smt,True
@@ -69,5 +69,5 @@
 126.749999,-89.8,0.0,top,U5,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWP,smt,True
 156.5,-98.525,180.0,top,U6,,SSOP-16_5.3x6.2mm_P0.65mm,TCA9554DB,smt,True
 156.5,-108.525,180.0,top,U7,,SSOP-16_5.3x6.2mm_P0.65mm,TCA9554DB,smt,True
-144.75,-75.45,-90.0,top,U8,,MSOP-8_3x3mm_P0.65mm,LTC4357MS8,smt,True
+152.0,-81.0,0.0,top,U8,,MSOP-8_3x3mm_P0.65mm,LTC4357MS8,smt,True
 166.8,-80.25,0.0,top,U9,,SOIC-8_3.9x4.9mm_P1.27mm,INA219BIDR,smt,True

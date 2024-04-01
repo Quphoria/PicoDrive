@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\BioRobotics Tank PCB.kicad_sch</source>
-    <date>31/03/2024 18:12:45</date>
+    <date>01/04/2024 21:18:21</date>
     <tool>Eeschema (7.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -397,33 +397,20 @@
       <tstamps>263196c2-0eb7-4a78-95e1-646a37a335ca</tstamps>
     </comp>
     <comp ref="Q1">
-      <value>IPD060N03LGATMA1</value>
-      <footprint>IPD060N03LGATMA1:IPD060N03LGATMA1</footprint>
-      <datasheet>https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f</datasheet>
+      <value>PSMN4R5-30YLC</value>
+      <footprint>Package_TO_SOT_SMD:LFPAK56</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/916/PSMN4R5_30YLC-2938954.pdf</datasheet>
       <fields>
-        <field name="Arrow Part Number">IPD060N03LGATMA1</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac</field>
-        <field name="Height">2.5</field>
-        <field name="Manufacturer_Name">Infineon</field>
-        <field name="Manufacturer_Part_Number">IPD060N03LGATMA1</field>
-        <field name="Mfr. No">IPD060N03LGATMA1</field>
-        <field name="Mouser Part Number">726-IPD060N03LGATMA1</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D</field>
+        <field name="Mfr. No">PSMN4R5-30YLC,115</field>
       </fields>
-      <libsource lib="IPD060N03LGATMA1" part="IPD060N03LGATMA1" description="MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V"/>
-      <property name="Height" value="2.5"/>
-      <property name="Manufacturer_Name" value="Infineon"/>
-      <property name="Manufacturer_Part_Number" value="IPD060N03LGATMA1"/>
-      <property name="Mouser Part Number" value="726-IPD060N03LGATMA1"/>
-      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D"/>
-      <property name="Arrow Part Number" value="IPD060N03LGATMA1"/>
-      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac"/>
-      <property name="Mfr. No" value="IPD060N03LGATMA1"/>
+      <libsource lib="Transistor_FET" part="PSMN5R2-60YL" description="100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56"/>
+      <property name="Mfr. No" value="PSMN4R5-30YLC,115"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
-      <property name="ki_description" value="MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V"/>
+      <property name="ki_description" value="100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4bfd0050-255b-46bb-9843-1c57fe53a571</tstamps>
+      <tstamps>d7d097e5-d66c-4360-a77b-097b7ec0cc72</tstamps>
     </comp>
     <comp ref="R5">
       <value>1.65k</value>
@@ -1328,28 +1315,6 @@
         <pin num="17" name="GND(PPAD)" type="power_in"/>
       </pins>
     </libpart>
-    <libpart lib="IPD060N03LGATMA1" part="IPD060N03LGATMA1">
-      <description>MOSFET N-Ch 30V 50A DPAK-2 OptiMOS3Power-Transistor,30V</description>
-      <docs>https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f</docs>
-      <fields>
-        <field name="Reference">Q</field>
-        <field name="Value">IPD060N03LGATMA1</field>
-        <field name="Footprint">IPD060N03LGATMA1:IPD060N03LGATMA1</field>
-        <field name="Datasheet">https://www.infineon.com/dgdl/Infineon-IPD060N03L%20G-DataSheet-v02_02-EN.pdf?fileId=db3a30432313ff5e01239e4d33a3702f</field>
-        <field name="Height">2.5</field>
-        <field name="Manufacturer_Name">Infineon</field>
-        <field name="Manufacturer_Part_Number">IPD060N03LGATMA1</field>
-        <field name="Mouser Part Number">726-IPD060N03LGATMA1</field>
-        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD060N03LGATMA1?qs=Dj8dEyEphkPMHEbgPBJgAQ%3D%3D</field>
-        <field name="Arrow Part Number">IPD060N03LGATMA1</field>
-        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ipd060n03lgatma1/infineon-technologies-ag?region=nac</field>
-      </fields>
-      <pins>
-        <pin num="1" name="G" type="passive"/>
-        <pin num="2" name="D" type="passive"/>
-        <pin num="3" name="S" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Interface_Expansion" part="TCA9554DB">
       <description>8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16</description>
       <docs>http://www.ti.com/lit/ds/symlink/tca9554.pdf</docs>
@@ -1501,6 +1466,26 @@
         <pin num="8" name="IN+" type="input"/>
       </pins>
     </libpart>
+    <libpart lib="Transistor_FET" part="PSMN5R2-60YL">
+      <description>100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/PSMN5R2-60YL.pdf</docs>
+      <footprints>
+        <fp>LFPAK56*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PSMN5R2-60YL</field>
+        <field name="Footprint">Package_TO_SOT_SMD:LFPAK56</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/PSMN5R2-60YL.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="G" type="passive"/>
+        <pin num="5" name="D" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Connector_Generic">
@@ -1511,9 +1496,6 @@
     </library>
     <library logical="Driver_Motor">
       <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Driver_Motor.kicad_sym</uri>
-    </library>
-    <library logical="IPD060N03LGATMA1">
-      <uri>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB/libraries/IPD060N03LGATMA1/IPD060N03LGATMA1.kicad_sym</uri>
     </library>
     <library logical="Interface_Expansion">
       <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Interface_Expansion.kicad_sym</uri>
@@ -1535,6 +1517,9 @@
     </library>
     <library logical="Sensor_Energy">
       <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Sensor_Energy.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>F:\ProgramFiles\KiCad\7.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1562,6 +1547,8 @@
     </net>
     <net code="2" name="+BATT">
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="U8" pin="1" pinfunction="IN" pintype="input"/>
     </net>
@@ -1851,7 +1838,7 @@
       <node ref="U9" pin="2" pinfunction="A0" pintype="input"/>
     </net>
     <net code="55" name="Net-(Q1-G)">
-      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="G" pintype="passive"/>
       <node ref="U8" pin="4" pinfunction="GATE" pintype="output"/>
     </net>
     <net code="56" name="Net-(U2-CP1)">
@@ -1935,7 +1922,7 @@
     </net>
     <net code="75" name="VBUS">
       <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="D" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>

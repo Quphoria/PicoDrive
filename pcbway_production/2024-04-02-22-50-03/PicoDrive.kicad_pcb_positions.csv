@@ -53,6 +53,7 @@
 168.3,-73.0,-90.0,top,R13,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,smt,True
 161.8,-73.0,-90.0,top,R14,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10,smt,True
 168.1,-126.4,90.0,top,R15,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10k,smt,True
+167.0,-139.6,-90.0,top,R16,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10k,smt,True
 186.000001,-127.9625,90.0,top,R2,,R_1020_2550Metric_Pad1.33x5.20mm_HandSolder,0.2,smt,True
 125.999999,-125.0375,-90.0,top,R3,,R_1020_2550Metric_Pad1.33x5.20mm_HandSolder,0.2,smt,True
 125.999999,-95.5875,-90.0,top,R4,,R_1020_2550Metric_Pad1.33x5.20mm_HandSolder,0.2,smt,True
@@ -63,10 +64,10 @@
 133.5,-114.25,180.0,top,R9,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10k,smt,True
 169.25,-97.41,180.0,top,RN1,,R_Array_Convex_4x1206,10k,smt,True
 155.25,-137.75,180.0,top,U1,,rp2040-zero-tht,rp2040-zero,tht,True
-185.250001,-102.615,180.0,top,U2,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWP,smt,True
-185.250001,-133.75,180.0,top,U3,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWP,smt,True
-126.749999,-119.25,0.0,top,U4,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWP,smt,True
-126.749999,-89.8,0.0,top,U5,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWP,smt,True
+185.250001,-102.615,180.0,top,U2,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWPR,smt,True
+185.250001,-133.75,180.0,top,U3,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWPR,smt,True
+126.749999,-119.25,0.0,top,U4,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWPR,smt,True
+126.749999,-89.8,0.0,top,U5,,HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias,DRV8801PWPR,smt,True
 156.5,-98.525,180.0,top,U6,,SSOP-16_5.3x6.2mm_P0.65mm,TCA9554DB,smt,True
 156.5,-108.525,180.0,top,U7,,SSOP-16_5.3x6.2mm_P0.65mm,TCA9554DB,smt,True
 152.0,-81.0,0.0,top,U8,,MSOP-8_3x3mm_P0.65mm,LTC4357MS8,smt,True

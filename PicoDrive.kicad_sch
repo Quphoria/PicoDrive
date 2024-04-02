@@ -1477,7 +1477,7 @@
   (junction (at 139.7 58.42) (diameter 0) (color 0 0 0 0)
     (uuid 1daf81a5-a1e2-4409-bffb-8c243f889bfd)
   )
-  (junction (at 236.22 133.35) (diameter 0) (color 0 0 0 0)
+  (junction (at 241.3 132.08) (diameter 0) (color 0 0 0 0)
     (uuid 22a62080-bb5b-4df6-b62d-ec64b484e80f)
   )
   (junction (at 53.34 88.9) (diameter 0) (color 0 0 0 0)
@@ -1486,7 +1486,7 @@
   (junction (at 55.88 152.4) (diameter 0) (color 0 0 0 0)
     (uuid 3706243a-f83e-40e8-8713-c9b19eca9948)
   )
-  (junction (at 236.22 135.89) (diameter 0) (color 0 0 0 0)
+  (junction (at 241.3 134.62) (diameter 0) (color 0 0 0 0)
     (uuid 39af9c1b-5ba8-42af-9096-f90c5551bb1c)
   )
   (junction (at 27.94 71.12) (diameter 0) (color 0 0 0 0)
@@ -1510,7 +1510,7 @@
   (junction (at 232.41 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 64bdc878-b3c5-4716-bbaa-62216538a3b6)
   )
-  (junction (at 236.22 138.43) (diameter 0) (color 0 0 0 0)
+  (junction (at 241.3 137.16) (diameter 0) (color 0 0 0 0)
     (uuid 7dd1fabb-408b-4c9e-93db-ec8cf49641b2)
   )
   (junction (at 154.94 53.34) (diameter 0) (color 0 0 0 0)
@@ -1584,7 +1584,7 @@
     (stroke (width 0) (type default))
     (uuid 0a0c923f-2181-44e2-9d3f-ccfe7af519ce)
   )
-  (wire (pts (xy 224.79 130.81) (xy 222.25 130.81))
+  (wire (pts (xy 229.87 129.54) (xy 227.33 129.54))
     (stroke (width 0) (type default))
     (uuid 0ba2fba5-cb35-44c0-8a5e-7f8e7a474486)
   )
@@ -1592,7 +1592,7 @@
     (stroke (width 0) (type default))
     (uuid 0c7801e8-5245-4901-8e12-c2d3cb9f5f27)
   )
-  (wire (pts (xy 236.22 138.43) (xy 236.22 140.97))
+  (wire (pts (xy 241.3 137.16) (xy 241.3 139.7))
     (stroke (width 0) (type default))
     (uuid 0c8e7c59-cc62-4035-82bd-167c8bb6b48e)
   )
@@ -1628,7 +1628,7 @@
     (stroke (width 0) (type default))
     (uuid 107ea146-de78-4d94-a5c8-03613fc4a80d)
   )
-  (wire (pts (xy 236.22 133.35) (xy 236.22 135.89))
+  (wire (pts (xy 241.3 132.08) (xy 241.3 134.62))
     (stroke (width 0) (type default))
     (uuid 111d7b88-1546-4339-95d4-eb1aca94b08b)
   )
@@ -1716,7 +1716,7 @@
     (stroke (width 0) (type default))
     (uuid 29afd42f-c367-4656-b4f1-24d3c0a7ed22)
   )
-  (wire (pts (xy 236.22 130.81) (xy 236.22 133.35))
+  (wire (pts (xy 241.3 129.54) (xy 241.3 132.08))
     (stroke (width 0) (type default))
     (uuid 2b7b99a1-b4ea-4544-aee0-ea0eedf007b5)
   )
@@ -1744,6 +1744,10 @@
     (stroke (width 0) (type default))
     (uuid 34cdc358-4010-4bb7-be66-8a8f091695c9)
   )
+  (wire (pts (xy 194.31 134.62) (xy 196.85 134.62))
+    (stroke (width 0) (type default))
+    (uuid 3600c6eb-32a3-4701-bd59-6a949f5e265b)
+  )
   (wire (pts (xy 265.43 95.25) (xy 267.97 95.25))
     (stroke (width 0) (type default))
     (uuid 36ca39be-3cde-4320-9717-afe159199e38)
@@ -1751,6 +1755,10 @@
   (wire (pts (xy 68.58 146.05) (xy 68.58 148.59))
     (stroke (width 0) (type default))
     (uuid 3907eafd-f2e0-4d39-8b8f-d80dde76333e)
+  )
+  (wire (pts (xy 196.85 132.08) (xy 196.85 134.62))
+    (stroke (width 0) (type default))
+    (uuid 3959fb18-6949-4c68-8cd9-47c0e0886bdb)
   )
   (wire (pts (xy 124.46 88.9) (xy 130.81 88.9))
     (stroke (width 0) (type default))
@@ -1760,11 +1768,11 @@
     (stroke (width 0) (type default))
     (uuid 3ae1423b-bd21-4b90-a449-990730535ba5)
   )
-  (wire (pts (xy 203.2 138.43) (xy 203.2 139.7))
+  (wire (pts (xy 207.01 138.43) (xy 207.01 139.7))
     (stroke (width 0) (type default))
     (uuid 3b6cc564-ed09-4c93-b263-996686006e58)
   )
-  (wire (pts (xy 224.79 133.35) (xy 222.25 133.35))
+  (wire (pts (xy 229.87 132.08) (xy 227.33 132.08))
     (stroke (width 0) (type default))
     (uuid 3c0bb5fe-a491-4b56-ac6c-afa9f76ecf61)
   )
@@ -1816,7 +1824,7 @@
     (stroke (width 0) (type default))
     (uuid 4428153f-c71c-426e-b315-3190caa642f9)
   )
-  (wire (pts (xy 236.22 135.89) (xy 236.22 138.43))
+  (wire (pts (xy 241.3 134.62) (xy 241.3 137.16))
     (stroke (width 0) (type default))
     (uuid 442dd775-b335-43ed-b030-cd2dc27baa5e)
   )
@@ -1868,7 +1876,7 @@
     (stroke (width 0) (type default))
     (uuid 523445ce-6af6-4e6f-a7ee-dafc61ccda6b)
   )
-  (wire (pts (xy 224.79 138.43) (xy 222.25 138.43))
+  (wire (pts (xy 229.87 137.16) (xy 227.33 137.16))
     (stroke (width 0) (type default))
     (uuid 5583b4d6-0fc5-4e44-af04-e6c60306c240)
   )
@@ -2068,7 +2076,7 @@
     (stroke (width 0) (type default))
     (uuid 92e3dff2-2d5e-4dfd-92c7-b221308cd323)
   )
-  (wire (pts (xy 234.95 130.81) (xy 236.22 130.81))
+  (wire (pts (xy 240.03 129.54) (xy 241.3 129.54))
     (stroke (width 0) (type default))
     (uuid 959731be-8566-409f-bc7f-9b169e3bcf70)
   )
@@ -2116,7 +2124,7 @@
     (stroke (width 0) (type default))
     (uuid a166b1cb-9df0-4776-9558-e2b97946ecc8)
   )
-  (wire (pts (xy 224.79 135.89) (xy 222.25 135.89))
+  (wire (pts (xy 229.87 134.62) (xy 227.33 134.62))
     (stroke (width 0) (type default))
     (uuid a3403307-b1ec-427e-b836-fcf4842203f3)
   )
@@ -2212,7 +2220,7 @@
     (stroke (width 0) (type default))
     (uuid ba376ba1-cdea-406e-9639-66b92a992783)
   )
-  (wire (pts (xy 234.95 138.43) (xy 236.22 138.43))
+  (wire (pts (xy 240.03 137.16) (xy 241.3 137.16))
     (stroke (width 0) (type default))
     (uuid bd3b88ff-87c6-4a01-852d-ce439b5a42cc)
   )
@@ -2304,7 +2312,7 @@
     (stroke (width 0) (type default))
     (uuid dcb71ab3-3835-40ad-9ea1-b1ae64821969)
   )
-  (wire (pts (xy 234.95 133.35) (xy 236.22 133.35))
+  (wire (pts (xy 240.03 132.08) (xy 241.3 132.08))
     (stroke (width 0) (type default))
     (uuid df5ab3a8-6660-45f7-b78e-db639e451512)
   )
@@ -2316,11 +2324,15 @@
     (stroke (width 0) (type default))
     (uuid e19bc30c-a8b2-448a-91d9-083944c2b52d)
   )
-  (wire (pts (xy 203.2 129.54) (xy 203.2 130.81))
+  (wire (pts (xy 207.01 129.54) (xy 207.01 130.81))
     (stroke (width 0) (type default))
     (uuid e2f37767-d0cf-47c3-8830-468db245b8a9)
   )
-  (wire (pts (xy 256.54 139.7) (xy 256.54 140.97))
+  (wire (pts (xy 184.15 134.62) (xy 186.69 134.62))
+    (stroke (width 0) (type default))
+    (uuid e470beff-0c97-4cc8-8af7-fdb0fc0853b8)
+  )
+  (wire (pts (xy 259.08 138.43) (xy 259.08 139.7))
     (stroke (width 0) (type default))
     (uuid e75bf601-6151-44fe-8fa7-9db44d1d8493)
   )
@@ -2384,7 +2396,7 @@
     (stroke (width 0) (type default))
     (uuid efd4f494-9150-4731-bb42-6dc8af9dcb65)
   )
-  (wire (pts (xy 234.95 135.89) (xy 236.22 135.89))
+  (wire (pts (xy 240.03 134.62) (xy 241.3 134.62))
     (stroke (width 0) (type default))
     (uuid f02c4aa0-7625-4475-96f6-b80ce7cbc0cb)
   )
@@ -2408,7 +2420,7 @@
     (stroke (width 0) (type default))
     (uuid f3e78e8c-02ce-49ce-91a9-549ab223abec)
   )
-  (wire (pts (xy 256.54 130.81) (xy 256.54 132.08))
+  (wire (pts (xy 259.08 129.54) (xy 259.08 130.81))
     (stroke (width 0) (type default))
     (uuid f4d9e52d-f4d6-4957-9c83-e1e529c1b1cb)
   )
@@ -2561,6 +2573,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 00150fe9-0f5a-48c5-be00-955dfa22ce05)
   )
+  (label "~{EXP1_INT}" (at 184.15 134.62 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 01aa1f98-230f-4508-ac6d-49df8b10dd51)
+  )
   (label "~{M_SLEEP}" (at 234.95 38.1 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 05b0fdb7-79af-4cea-abf0-ad2676529ad0)
@@ -2697,7 +2713,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 7030957d-b454-4249-81ef-387f165ca647)
   )
-  (label "~{M4_FAULT}" (at 222.25 130.81 180) (fields_autoplaced)
+  (label "~{M4_FAULT}" (at 227.33 129.54 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 74390c46-b8c1-4842-a2af-9e17e9874c31)
   )
@@ -2773,11 +2789,11 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b162b660-368c-404a-8fb8-e277089bfe3b)
   )
-  (label "~{M3_FAULT}" (at 222.25 133.35 180) (fields_autoplaced)
+  (label "~{M3_FAULT}" (at 227.33 132.08 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b99aa933-b489-4426-a9be-6f817ef0d9bc)
   )
-  (label "~{M2_FAULT}" (at 222.25 135.89 180) (fields_autoplaced)
+  (label "~{M2_FAULT}" (at 227.33 134.62 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bb397e3c-3ead-46b8-8203-68cc97c75b34)
   )
@@ -2809,7 +2825,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c9f4a53e-105b-4557-827f-297143d99f64)
   )
-  (label "~{M1_FAULT}" (at 222.25 138.43 180) (fields_autoplaced)
+  (label "~{M1_FAULT}" (at 227.33 137.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ca9e653c-1de1-4edb-8b51-04b6822b4479)
   )
@@ -2928,6 +2944,9 @@
     (property "Mfr. No" "TCA9554DWR" (at 203.2 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "595-TCA9554DWR" (at 203.2 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid d1ce6a13-59f3-4b2a-bb4d-de072249ada8))
     (pin "10" (uuid ed9e54d3-7966-47bf-a6be-1b3483b406ed))
     (pin "11" (uuid cf3296d3-f704-44d4-9716-1452579af2bb))
@@ -2945,7 +2964,7 @@
     (pin "8" (uuid f74d5986-63b3-426f-b966-e3b1cf8db324))
     (pin "9" (uuid 7277f6b8-bfb3-4ec3-ab34-b09433b20500))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "U6") (unit 1)
         )
@@ -2970,7 +2989,7 @@
     )
     (pin "1" (uuid 660232f0-1883-43c1-bea2-e8be94a38cda))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR041") (unit 1)
         )
@@ -2995,7 +3014,7 @@
     )
     (pin "1" (uuid 1dd1aa76-4018-448e-a0d1-51454d6b0f81))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR057") (unit 1)
         )
@@ -3020,7 +3039,7 @@
     )
     (pin "1" (uuid a9dd4d08-0074-4e82-a51f-50d7287fdb92))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR049") (unit 1)
         )
@@ -3046,10 +3065,13 @@
     (property "Mfr. No" "RCC080510R0FKEA" (at 24.13 132.08 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "71-RCC080510R0FKEA" (at 24.13 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid baa4e493-12a1-4f14-97d1-bfe7629543f5))
     (pin "2" (uuid 6f4a2c78-ee0a-4d8f-94b2-ee13c9828de8))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R14") (unit 1)
         )
@@ -3074,7 +3096,7 @@
     )
     (pin "1" (uuid c724d92f-bba3-4b46-903f-d63f100dfaf9))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR055") (unit 1)
         )
@@ -3100,10 +3122,13 @@
     (property "Mfr. No" "TB009-508-02BE" (at 123.19 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "490-TB009-508-02BE" (at 123.19 127 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 38a274ea-6948-459a-b173-3032b70f0a3a))
     (pin "2" (uuid 24ab7c1e-f437-4c0a-b627-8af3316f27a2))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "J1") (unit 1)
         )
@@ -3138,8 +3163,11 @@
     (property "Datasheet" "~" (at 241.3 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 241.3 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "H1") (unit 1)
         )
@@ -3164,7 +3192,7 @@
     )
     (pin "1" (uuid 64a6f714-3ea3-4f52-9b98-9ff737d17ec9))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -3201,7 +3229,7 @@
     )
     (pin "1" (uuid 0d40188d-ef77-443d-9246-1ecdd7a5bcaa))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR058") (unit 1)
         )
@@ -3226,7 +3254,7 @@
     )
     (pin "1" (uuid ab71c4e0-8b7f-4f6a-b4f3-ee14afd3b8bf))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR056") (unit 1)
         )
@@ -3251,7 +3279,7 @@
     )
     (pin "1" (uuid bda5e401-043f-4587-8d16-e9a457386465))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -3266,6 +3294,38 @@
         )
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR042") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 190.5 134.62 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 225c47c8-62f8-4676-b056-4e3df39d2e7b)
+    (property "Reference" "R16" (at 190.5 129.54 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "10k" (at 190.5 132.08 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 190.5 136.398 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 190.5 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mfr. No" "CRS0805-FX-1002ELF" (at 190.5 134.62 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "652-CRS0805FX1002ELF" (at 190.5 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a800c7e1-2250-4dcb-a3fa-a9cb70326991))
+    (pin "2" (uuid b01957df-e286-4bc0-85f0-228666b8fa98))
+    (instances
+      (project "PicoDrive"
+        (path "/738c766b-5149-4d22-8944-003aead1c6f2"
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -3286,20 +3346,17 @@
     (property "Datasheet" "" (at 49.53 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "STANDARD" "Manufacturer Recommendations" (at 49.53 35.56 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
-    )
-    (property "MANUFACTURER" "CUI Inc" (at 49.53 35.56 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
-    )
     (property "Mfr. No" "P78E03-1000" (at 49.53 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "490-P78E03-1000" (at 49.53 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1ecadb05-1c7f-41e6-bd0e-1f3da0901a1c))
     (pin "2" (uuid 05007769-012b-4bfc-9c08-0abb3d40beab))
     (pin "3" (uuid ed87361d-367b-4a01-a4e6-61d655df6e17))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "PS1") (unit 1)
         )
@@ -3324,7 +3381,7 @@
     )
     (pin "1" (uuid 5908f2e8-d17f-4359-93ba-9c96ac787a07))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR046") (unit 1)
         )
@@ -3349,7 +3406,7 @@
     )
     (pin "1" (uuid 1ca62ff4-3ef6-4c69-ab6b-8a1e797e9a4d))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -3387,10 +3444,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 26.67 39.37 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 26.67 39.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1f9fa182-5d71-4367-bd28-218d90c27e7f))
     (pin "2" (uuid 0c3baa40-abb5-4aac-ad5a-6532fe1e2ec6))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -3428,10 +3488,13 @@
     (property "Mfr. No" "RCC0805100RFKEA" (at 53.34 78.74 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "71-RCC0805100RFKEA" (at 53.34 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b89d4716-e817-4312-88c6-13bc01a3f1c3))
     (pin "2" (uuid edf03ff2-7d72-4419-b330-efd20d7bafc3))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R11") (unit 1)
         )
@@ -3456,7 +3519,7 @@
     )
     (pin "1" (uuid ad27a32f-d752-438d-9fc4-1fb60110415a))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR043") (unit 1)
         )
@@ -3482,10 +3545,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 30.48 143.51 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 30.48 143.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid db0e5fec-8293-451b-8eb9-08d44c9b1300))
     (pin "2" (uuid 571036ef-1db4-4cf3-97f6-6303a0c7844f))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -3522,7 +3588,7 @@
     )
     (pin "1" (uuid 5621c2ff-4325-4bc6-967c-701e5f0791d7))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR060") (unit 1)
         )
@@ -3548,10 +3614,13 @@
     (property "Mfr. No" "CRCW08051K65FKEA" (at 83.82 76.2 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "71-CRCW0805-1.65K-E3" (at 83.82 76.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b5057b16-94ef-4df9-ba6d-e68a96ce220f))
     (pin "2" (uuid e7d4837f-6eec-47fb-8929-f8af865d2180))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R6") (unit 1)
         )
@@ -3576,7 +3645,7 @@
     )
     (pin "1" (uuid bef71015-1178-468c-8499-1a15562fdc55))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR017") (unit 1)
         )
@@ -3599,11 +3668,14 @@
     (property "Datasheet" "~" (at 238.76 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 238.76 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 781ebd20-6dd8-43f3-a34c-ad1c3c67f0b5))
     (pin "2" (uuid 739dcbea-a73d-4754-b1f0-f847469931af))
     (pin "3" (uuid 7f3e72ed-fc1a-4787-a07e-f0a87e464de7))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "JP2") (unit 1)
         )
@@ -3629,10 +3701,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 53.34 95.25 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 53.34 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 06fb6ab1-4b94-471f-b122-3f1b1d3f98fc))
     (pin "2" (uuid dd9a1d7a-678e-4bb9-a79a-39b918c8fe24))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -3669,7 +3744,7 @@
     )
     (pin "1" (uuid ecf767c1-69c9-441f-a82c-ba0b3ae6efa5))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR026") (unit 1)
         )
@@ -3695,6 +3770,9 @@
     (property "Mfr. No" "INA219BIDR" (at 55.88 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "595-INA219BIDR" (at 55.88 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5dbdc661-9e1e-417d-8a80-d39afe873e74))
     (pin "2" (uuid 7e852f38-0a23-4fa4-8a7b-d0d134b9c2fe))
     (pin "3" (uuid 76489b49-fa85-4633-80eb-959204872da6))
@@ -3704,7 +3782,7 @@
     (pin "7" (uuid 19acae07-0944-4472-91c5-d6ae9da972ba))
     (pin "8" (uuid d4f8d6a6-a01d-4984-9612-ce70d37f43f1))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "U9") (unit 1)
         )
@@ -3729,7 +3807,7 @@
     )
     (pin "1" (uuid 0308b029-4210-4831-945c-f5d80b94e979))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR018") (unit 1)
         )
@@ -3754,7 +3832,7 @@
     )
     (pin "1" (uuid 8d78454a-2d06-4678-a849-34f08cbeed21))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR061") (unit 1)
         )
@@ -3779,7 +3857,7 @@
     )
     (pin "1" (uuid 2a480005-b581-4ff4-928e-82d2682a5d10))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR029") (unit 1)
         )
@@ -3804,7 +3882,7 @@
     )
     (pin "1" (uuid 4b34a010-5861-4375-ad50-278c4025361e))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR037") (unit 1)
         )
@@ -3829,7 +3907,7 @@
     )
     (pin "1" (uuid fdafea84-ab8e-4cd0-9f91-56c8be361526))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR054") (unit 1)
         )
@@ -3854,7 +3932,7 @@
     )
     (pin "1" (uuid 5fec702d-a70c-4b73-8876-1f0da7645d8e))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR052") (unit 1)
         )
@@ -3862,22 +3940,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Pack04") (at 229.87 133.35 90) (unit 1)
+  (symbol (lib_id "Device:R_Pack04") (at 234.95 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 69e19a95-9597-4dc2-a94a-d0efb258694c)
-    (property "Reference" "RN1" (at 229.87 125.73 90)
+    (property "Reference" "RN1" (at 234.95 124.46 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k" (at 229.87 128.27 90)
+    (property "Value" "10k" (at 234.95 127 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206" (at 229.87 126.365 90)
+    (property "Footprint" "Resistor_SMD:R_Array_Convex_4x1206" (at 234.95 125.095 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 229.87 133.35 0)
+    (property "Datasheet" "~" (at 234.95 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr. No" "YC324-JK-0710KL" (at 229.87 133.35 90)
+    (property "Mfr. No" "YC324-JK-0710KL" (at 234.95 132.08 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "603-YC324-JK-0710KL" (at 234.95 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1e622d5e-c43d-43fc-8be1-1bef1762f315))
@@ -3889,7 +3970,7 @@
     (pin "7" (uuid 95b5280b-0f9a-4347-9196-3961b84c3e24))
     (pin "8" (uuid b35b5d3e-c818-451b-b1cf-9df1ba013a4b))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "RN1") (unit 1)
         )
@@ -3914,7 +3995,7 @@
     )
     (pin "1" (uuid 218dc16b-7600-4109-80cf-9c4ad0787033))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR050") (unit 1)
         )
@@ -3939,7 +4020,7 @@
     )
     (pin "1" (uuid 91c9d5f3-6ff8-4954-b8c1-b99148475d8a))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR030") (unit 1)
         )
@@ -3947,28 +4028,31 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 256.54 135.89 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 259.08 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71dc37ae-4db3-46e1-9ce0-e84bddd8deee)
-    (property "Reference" "C1" (at 250.19 135.89 90)
+    (property "Reference" "C1" (at 252.73 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "0.1uF" (at 252.73 135.89 90)
+    (property "Value" "0.1uF" (at 255.27 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 257.5052 139.7 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 260.0452 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 256.54 135.89 0)
+    (property "Datasheet" "~" (at 259.08 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr. No" "08055C104JAT2A" (at 256.54 135.89 90)
+    (property "Mfr. No" "08055C104JAT2A" (at 259.08 134.62 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "581-08055C104J" (at 259.08 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4b68d41c-dde8-443d-a5de-81209765b375))
     (pin "2" (uuid 78e3b3f6-d0ef-4512-9ce3-67e1bd358678))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -4006,10 +4090,13 @@
     (property "Mfr. No" "UVZ1J101MPD" (at 77.47 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "647-UVZ1J101MPD" (at 77.47 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid c3e1b196-8086-4bb4-af24-d2525a5778cc))
     (pin "2" (uuid 3a0883c2-bb4e-47c5-8f63-4ffd902cd4a2))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C3") (unit 1)
         )
@@ -4029,24 +4116,24 @@
     )
   )
 
-  (symbol (lib_id "power:GNDD") (at 256.54 140.97 0) (unit 1)
+  (symbol (lib_id "power:GNDD") (at 259.08 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7440a85e-b45e-4227-8426-6ac6a11e981b)
-    (property "Reference" "#PWR028" (at 256.54 147.32 0)
+    (property "Reference" "#PWR028" (at 259.08 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GNDD" (at 256.54 146.05 0)
+    (property "Value" "GNDD" (at 259.08 144.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 256.54 140.97 0)
+    (property "Footprint" "" (at 259.08 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 256.54 140.97 0)
+    (property "Datasheet" "" (at 259.08 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5b9e2dba-0832-4df3-b323-823f99024f23))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR028") (unit 1)
         )
@@ -4069,8 +4156,11 @@
     (property "Datasheet" "~" (at 241.3 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 241.3 160.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "H3") (unit 1)
         )
@@ -4078,24 +4168,24 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 203.2 129.54 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 207.01 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8358ac5f-3b5d-478b-a6af-17c0bad3180b)
-    (property "Reference" "#PWR019" (at 203.2 133.35 0)
+    (property "Reference" "#PWR019" (at 207.01 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 203.2 125.73 0)
+    (property "Value" "+3V3" (at 207.01 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 203.2 129.54 0)
+    (property "Footprint" "" (at 207.01 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 203.2 129.54 0)
+    (property "Datasheet" "" (at 207.01 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2a2ba576-e87d-488f-85af-0e35d842c769))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR019") (unit 1)
         )
@@ -4120,7 +4210,7 @@
     )
     (pin "1" (uuid 511ca00d-d3c3-46e6-92f4-e0828527eab6))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR023") (unit 1)
         )
@@ -4146,10 +4236,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 93.98 140.97 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 93.98 140.97 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid c33d71a0-9617-47af-8dac-05091efadae3))
     (pin "2" (uuid 2edc4d83-4c22-4111-9515-3ad751e3267e))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -4169,24 +4262,24 @@
     )
   )
 
-  (symbol (lib_id "power:GNDD") (at 203.2 139.7 0) (unit 1)
+  (symbol (lib_id "power:GNDD") (at 207.01 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8bceb27a-e4a6-4470-9e95-24c7ed8cf0a1)
-    (property "Reference" "#PWR020" (at 203.2 146.05 0)
+    (property "Reference" "#PWR020" (at 207.01 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GNDD" (at 203.2 144.78 0)
+    (property "Value" "GNDD" (at 207.01 144.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 203.2 139.7 0)
+    (property "Footprint" "" (at 207.01 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 203.2 139.7 0)
+    (property "Datasheet" "" (at 207.01 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c5defb67-7a0d-46d1-9a8f-959aa8fde8ce))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR020") (unit 1)
         )
@@ -4212,6 +4305,9 @@
     (property "Mfr. No" "TCA9554DWR" (at 255.27 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "595-TCA9554DWR" (at 255.27 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b0cfb601-6e73-4fa1-95cc-261a3c1f88ac))
     (pin "10" (uuid 4c88d2b4-6ecc-4f6e-b3f2-8cb495467b27))
     (pin "11" (uuid c9d31225-5854-4e62-af98-ee3a6da6006a))
@@ -4229,7 +4325,7 @@
     (pin "8" (uuid ffbc7460-cb75-4d22-925d-4e906a291c22))
     (pin "9" (uuid a1e50ec6-2674-44ba-8615-91501d9fad09))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "U7") (unit 1)
         )
@@ -4237,28 +4333,31 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 203.2 134.62 0) (unit 1)
+  (symbol (lib_id "Device:C") (at 207.01 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 937f9848-1b3e-4d4b-9e31-4bba91abeeb0)
-    (property "Reference" "C1" (at 196.85 134.62 90)
+    (property "Reference" "C1" (at 200.66 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "0.1uF" (at 199.39 134.62 90)
+    (property "Value" "0.1uF" (at 203.2 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 204.1652 138.43 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 207.9752 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 203.2 134.62 0)
+    (property "Datasheet" "~" (at 207.01 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr. No" "08055C104JAT2A" (at 203.2 134.62 90)
+    (property "Mfr. No" "08055C104JAT2A" (at 207.01 134.62 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "581-08055C104J" (at 207.01 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b74e2aab-95a9-4f2f-86b2-cbdd8c594174))
     (pin "2" (uuid d8d259b1-e5d2-4bae-a93c-a338ecac98d7))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -4296,10 +4395,13 @@
     (property "Mfr. No" "RCC080510R0FKEA" (at 36.83 132.08 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "71-RCC080510R0FKEA" (at 36.83 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 26da8117-f8ad-440e-8957-00eb9067467a))
     (pin "2" (uuid 794e34d6-0c07-4184-b5db-179873377213))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R13") (unit 1)
         )
@@ -4325,6 +4427,9 @@
     (property "Mfr. No" "61201021621" (at 116.84 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "710-61201021621" (at 116.84 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 78272435-433f-4e27-840f-3462dc9e8caf))
     (pin "10" (uuid 1bd7bc3c-7caa-45c4-bbc8-7e692a6ae9f2))
     (pin "2" (uuid 9db00f2c-1d86-4a6f-b07b-3bd27df3150a))
@@ -4336,7 +4441,7 @@
     (pin "8" (uuid df883cb5-4cf1-4d0e-a7d8-b6280ee726a3))
     (pin "9" (uuid 11fa7e5c-9ced-41cf-b8c4-e8f4c5ae32d2))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "J8") (unit 1)
         )
@@ -4361,7 +4466,7 @@
     )
     (pin "1" (uuid ca8dcccc-b8a9-447b-9287-957b67bc4b32))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -4399,10 +4504,13 @@
     (property "Mfr. No" "MSMA2512R0050FEN" (at 30.48 125.73 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "504-MSMA2512R0050FEN" (at 30.48 125.73 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 0be1567d-d278-4467-813a-8a7c73b19a82))
     (pin "2" (uuid d2f23883-4552-4453-8123-685f6fe3363e))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "R1") (unit 1)
         )
@@ -4440,6 +4548,9 @@
     (property "Mfr. No" "LTC4357CMS8#PBF" (at 43.18 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "584-LTC4357CMS8#PBF" (at 43.18 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 3b273c38-dff0-49ea-a29e-f3fb66c39a9c))
     (pin "2" (uuid 9db570a2-50b6-4eb9-9e51-5bd9b36924f7))
     (pin "3" (uuid c130941f-8e8e-497d-a45e-5a89eca93385))
@@ -4449,7 +4560,7 @@
     (pin "7" (uuid 2d7432f0-914c-4dd6-a9f3-4703808b9a65))
     (pin "8" (uuid 0ceb3092-54d1-45ea-9a0c-46eb53e211dd))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "U8") (unit 1)
         )
@@ -4458,7 +4569,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 83.82 100.33 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 9dcef37f-62ed-4f5b-b6fc-a83f7a03fb4a)
     (property "Reference" "R15" (at 83.82 95.25 90)
       (effects (font (size 1.27 1.27)))
@@ -4475,10 +4586,13 @@
     (property "Mfr. No" "CRS0805-FX-1002ELF" (at 83.82 100.33 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "652-CRS0805FX1002ELF" (at 83.82 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 017f81c3-360e-4f3b-b180-da598c3dd5e2))
     (pin "2" (uuid 6009b1ee-72a9-488e-8610-70df860da390))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R15") (unit 1)
         )
@@ -4486,24 +4600,24 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 256.54 130.81 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 259.08 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1ef3a57-8aa0-4a17-af20-8cd706c4a9b7)
-    (property "Reference" "#PWR027" (at 256.54 134.62 0)
+    (property "Reference" "#PWR027" (at 259.08 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 256.54 127 0)
+    (property "Value" "+3V3" (at 259.08 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 256.54 130.81 0)
+    (property "Footprint" "" (at 259.08 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 256.54 130.81 0)
+    (property "Datasheet" "" (at 259.08 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2386b199-9e0d-4ede-b7cb-d2bd8ece905d))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR027") (unit 1)
         )
@@ -4528,7 +4642,7 @@
     )
     (pin "1" (uuid 8e32647e-9a9c-4e82-a991-05f8500081f4))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR031") (unit 1)
         )
@@ -4553,7 +4667,7 @@
     )
     (pin "1" (uuid 69b5960b-445e-4985-925b-92d97ed19dc8))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR039") (unit 1)
         )
@@ -4576,15 +4690,43 @@
     (property "Datasheet" "~" (at 156.21 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 156.21 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6c12b4ca-670c-4014-b6e1-c1377a7ad054))
     (pin "2" (uuid 3dc9d8e5-3c84-4ea7-ad86-8b37e787b9e5))
     (pin "3" (uuid 07c8be06-5d64-469f-980f-e7863fac0aa1))
     (pin "4" (uuid 7c314525-c539-420b-9fbd-a1db192ee2c0))
     (pin "5" (uuid 8794aa67-e939-4f5f-966f-ab9fafab1e5f))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "J9") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3V3") (at 196.85 132.08 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b91a68ac-955d-4610-b835-37868506c412)
+    (property "Reference" "#PWR063" (at 196.85 135.89 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 196.85 128.27 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 196.85 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 196.85 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8c220c53-b864-4938-aaaf-69906ade6dc3))
+    (instances
+      (project "PicoDrive"
+        (path "/738c766b-5149-4d22-8944-003aead1c6f2"
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -4605,8 +4747,11 @@
     (property "Datasheet" "~" (at 260.35 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 260.35 160.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "H4") (unit 1)
         )
@@ -4632,10 +4777,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 82.55 35.56 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 82.55 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 543b80b0-eb09-4632-a84a-8b7a7533fa9c))
     (pin "2" (uuid e75183fc-c742-4b42-aef7-3e9ec30cffd4))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -4672,7 +4820,7 @@
     )
     (pin "1" (uuid b78062e3-c11f-44cf-998c-106db38c499c))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR021") (unit 1)
         )
@@ -4695,11 +4843,14 @@
     (property "Datasheet" "~" (at 186.69 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 186.69 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid f6605b86-d9cb-4fca-927d-e5ba7806baae))
     (pin "2" (uuid d8b279c3-0391-4384-8ba8-c3fbce411b10))
     (pin "3" (uuid 8139ef4b-bfc6-4afb-becd-1a329ce3ac93))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "JP1") (unit 1)
         )
@@ -4707,24 +4858,24 @@
     )
   )
 
-  (symbol (lib_id "power:GNDD") (at 236.22 140.97 0) (unit 1)
+  (symbol (lib_id "power:GNDD") (at 241.3 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c244f8c5-0fe2-480e-935a-533e7783335d)
-    (property "Reference" "#PWR036" (at 236.22 147.32 0)
+    (property "Reference" "#PWR036" (at 241.3 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GNDD" (at 236.22 146.05 0)
+    (property "Value" "GNDD" (at 241.3 144.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 236.22 140.97 0)
+    (property "Footprint" "" (at 241.3 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 236.22 140.97 0)
+    (property "Datasheet" "" (at 241.3 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 37499a2e-1fba-4dbb-a1c5-61b374e3c72e))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR036") (unit 1)
         )
@@ -4749,7 +4900,7 @@
     )
     (pin "1" (uuid 52853a93-a58b-41b7-8fae-188ee7e847f7))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR047") (unit 1)
         )
@@ -4775,10 +4926,13 @@
     (property "Mfr. No" "TB009-508-02BE" (at 123.19 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "490-TB009-508-02BE" (at 123.19 139.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid a8374ce4-6820-4e2e-aba7-e28606c3d01e))
     (pin "2" (uuid 2f62debd-81c1-4e4c-942c-bbdd1a492baf))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "J1") (unit 1)
         )
@@ -4815,7 +4969,7 @@
     )
     (pin "1" (uuid 9a16a038-5006-4882-93fc-a0949f2c7813))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR059") (unit 1)
         )
@@ -4836,6 +4990,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.35 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "" (at 124.46 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 544ef497-61f7-418b-9b14-5c50357ca6c6))
@@ -4862,7 +5019,7 @@
     (pin "8" (uuid f0d45adb-1784-4602-94cd-259f6df7bd28))
     (pin "9" (uuid a06d5764-ffe9-4978-971d-e949e2479002))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "U1") (unit 1)
         )
@@ -4888,13 +5045,16 @@
     (property "Mfr. No" "PSMN4R5-30YLC,115" (at 36.83 73.66 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "771-PSMN4R5-30YLC115" (at 36.83 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid f26b3621-a4d9-402c-ad39-b113d98d6eed))
     (pin "2" (uuid 1ec4ff06-2510-4bfc-a973-05b0f567eec8))
     (pin "3" (uuid f89545ad-2208-460c-aeb0-a9e730bb4676))
     (pin "4" (uuid 1e4bcb8a-8527-44b5-b5e8-b0982d7020a6))
     (pin "5" (uuid 70f98f47-c679-4b10-adec-c5054c7ae24b))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "Q1") (unit 1)
         )
@@ -4920,10 +5080,13 @@
     (property "Mfr. No" "CRCW08051K65FKEA" (at 83.82 73.66 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "71-CRCW0805-1.65K-E3" (at 83.82 73.66 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e8959aad-e51b-4b1c-a54a-5a6b3afc6dfc))
     (pin "2" (uuid 4a1d4f4f-c780-4aa4-8aa5-e6ab43dd0ffa))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R5") (unit 1)
         )
@@ -4946,11 +5109,14 @@
     (property "Datasheet" "~" (at 68.58 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 68.58 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6a3f62ca-c689-4fb9-b439-1269c1dc4f1e))
     (pin "2" (uuid ce4c3167-58ed-4039-b2fa-890378e9feb0))
     (pin "3" (uuid e6db486e-df6e-45ca-b205-29cbd11ca905))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "JP3") (unit 1)
         )
@@ -4975,7 +5141,7 @@
     )
     (pin "1" (uuid b284f6f1-6518-45eb-9712-53269bc5a6ab))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR022") (unit 1)
         )
@@ -5001,10 +5167,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 147.32 58.42 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 147.32 58.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 8983b62e-443a-4c25-95f0-801f754f98c0))
     (pin "2" (uuid b0a01cc6-ca5d-47dd-ba4b-ce66655ae0ef))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -5041,7 +5210,7 @@
     )
     (pin "1" (uuid b6e0a6b7-db7a-483f-afb9-36008c15bf14))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -5078,7 +5247,7 @@
     )
     (pin "1" (uuid e2798710-69bd-4d7f-b04a-77bd9a9de963))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -5115,7 +5284,7 @@
     )
     (pin "1" (uuid 243619a8-1488-480b-9b19-ad2342dbf6cf))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR048") (unit 1)
         )
@@ -5140,7 +5309,7 @@
     )
     (pin "1" (uuid ca883720-7271-433b-8e59-faa40ce6ab31))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR045") (unit 1)
         )
@@ -5166,10 +5335,13 @@
     (property "Mfr. No" "TB009-508-02BE" (at 123.19 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "490-TB009-508-02BE" (at 123.19 133.35 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5fba9043-051e-411a-a32a-cccbf481e603))
     (pin "2" (uuid 3e9f9424-d078-40b3-9068-f949fdbba130))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "J1") (unit 1)
         )
@@ -5206,7 +5378,7 @@
     )
     (pin "1" (uuid 7dcc1793-a179-4399-ae6e-fee03e7815b1))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR025") (unit 1)
         )
@@ -5229,8 +5401,11 @@
     (property "Datasheet" "~" (at 260.35 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "" (at 260.35 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "H2") (unit 1)
         )
@@ -5255,7 +5430,7 @@
     )
     (pin "1" (uuid 429720ae-b529-42c0-b2f0-fd4e415685c0))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR038") (unit 1)
         )
@@ -5280,7 +5455,7 @@
     )
     (pin "1" (uuid faa5fb78-fec8-40de-bbee-848145c1628f))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "#PWR033") (unit 1)
         )
@@ -5327,7 +5502,7 @@
       (uuid 3f3a89eb-562e-4031-a2ef-ae04475ed1c3)
     )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2" (page "5"))
       )
     )
@@ -5372,7 +5547,7 @@
       (uuid 5b66c4d9-8748-4133-b6f6-21cb966a6d6c)
     )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2" (page "4"))
       )
     )
@@ -5417,7 +5592,7 @@
       (uuid e05acfe1-2c05-4020-926d-7d48b1a7cf7f)
     )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2" (page "2"))
       )
     )
@@ -5462,7 +5637,7 @@
       (uuid 4841f093-5357-4ebe-a8a0-9a27fb734a4b)
     )
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2" (page "3"))
       )
     )

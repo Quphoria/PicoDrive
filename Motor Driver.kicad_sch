@@ -665,10 +665,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 31.75 38.1 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 31.75 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid acf452fc-13a3-4adb-b386-1d7173501a38))
     (pin "2" (uuid 7806c9ea-b972-4348-bed9-90a5443bb21f))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C1") (unit 1)
         )
@@ -703,10 +706,13 @@
     (property "Mfr. No" "KAF21BR72D102MT" (at 99.06 62.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-KAF21BR72D102MT" (at 99.06 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b80098d2-ce86-4123-be03-d3a44c604a4e))
     (pin "2" (uuid 0617d91d-f43d-4497-9a8f-6f13e769b603))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C19") (unit 1)
         )
@@ -741,10 +747,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 35.56 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 35.56 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 4a4185a3-fc31-4ec2-9a30-d798c41b297c))
     (pin "2" (uuid 2d400ba3-4794-4880-b143-4857d697059f))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C4") (unit 1)
         )
@@ -779,10 +788,13 @@
     (property "Mfr. No" "CRS0805-FX-1002ELF" (at 91.44 55.88 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "652-CRS0805FX1002ELF" (at 91.44 55.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid f269229e-300f-484e-af20-36970987d956))
     (pin "2" (uuid 1a1a8f2c-20e6-4506-bc3e-5418ddd02554))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2"
           (reference "R5") (unit 1)
         )
@@ -819,7 +831,7 @@
     )
     (pin "1" (uuid 979f07f2-38ab-4c02-9ce0-e367633d7574))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR024") (unit 1)
         )
@@ -854,10 +866,13 @@
     (property "Mfr. No" "TB009-508-02BE" (at 105.41 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "490-TB009-508-02BE" (at 105.41 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9918eb4f-8396-402a-8a94-aad6be968a54))
     (pin "2" (uuid bf613470-9a3f-4659-8b63-dce4d901ea4b))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "J1") (unit 1)
         )
@@ -892,10 +907,13 @@
     (property "Mfr. No" "08055C104JAT2A" (at 43.18 40.64 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "581-08055C104J" (at 43.18 40.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 8b070e08-3713-4190-acdb-9c73f93c1dfc))
     (pin "2" (uuid db284a72-35b6-4323-81cc-aa9d8d7247cb))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C2") (unit 1)
         )
@@ -930,10 +948,13 @@
     (property "Mfr. No" "UVZ1J101MPD" (at 31.75 30.48 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "647-UVZ1J101MPD" (at 31.75 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid fff4bfd3-599b-4882-abba-e7a4edaf4a36))
     (pin "2" (uuid 11ce459b-dea3-425a-b939-08216261a4c3))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "C3") (unit 1)
         )
@@ -967,7 +988,7 @@
     )
     (pin "1" (uuid 676a06d2-d316-416c-80b0-80c3718b2ec8))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR03") (unit 1)
         )
@@ -1002,10 +1023,13 @@
     (property "Mfr. No" "ERJ-D1CFR200U" (at 101.6 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Mouser No" "667-ERJ-D1CFR200U" (at 101.6 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5e01dd9d-b260-48c3-a435-ffca30368be7))
     (pin "2" (uuid 456cca63-3879-4b4c-b4a4-b9efcc3db164))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "R1") (unit 1)
         )
@@ -1039,7 +1063,7 @@
     )
     (pin "1" (uuid cfae2e8b-6f0d-40e5-a7bc-5677e9ab85c5))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR04") (unit 1)
         )
@@ -1073,7 +1097,7 @@
     )
     (pin "1" (uuid 586e1808-387a-4de7-bfd7-7ab713ae1008))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR01") (unit 1)
         )
@@ -1096,7 +1120,7 @@
     (property "Reference" "U2" (at 68.58 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "DRV8801PWP" (at 68.58 34.29 0)
+    (property "Value" "DRV8801PWPR" (at 68.58 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias" (at 99.06 34.29 0)
@@ -1105,7 +1129,10 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/drv8801.pdf" (at 69.85 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mfr. No" "DRV8801PWP" (at 68.58 48.26 0)
+    (property "Mfr. No" "DRV8801PWPR" (at 68.58 48.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser No" "595-DRV8801PWPR" (at 68.58 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6610a0bc-5084-4617-b0f4-46f1410ea062))
@@ -1126,7 +1153,7 @@
     (pin "8" (uuid 79db46fe-b960-4401-820a-479bb5c829de))
     (pin "9" (uuid 123e84ea-696d-40d1-9b32-310fa7cb5088))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "U2") (unit 1)
         )
@@ -1160,7 +1187,7 @@
     )
     (pin "1" (uuid 1768669f-0abe-44a2-8a0d-46d388f7630c))
     (instances
-      (project "BioRobotics Tank PCB"
+      (project "PicoDrive"
         (path "/738c766b-5149-4d22-8944-003aead1c6f2/91fbf09a-497d-4de7-ab4a-2985c5e3b4aa"
           (reference "#PWR02") (unit 1)
         )

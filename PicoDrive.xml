@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\BioRobotics Tank PCB.kicad_sch</source>
-    <date>01/04/2024 21:18:21</date>
+    <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\PicoDrive.kicad_sch</source>
+    <date>02/04/2024 22:50:19</date>
     <tool>Eeschema (7.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>BioRobotics Tank PCB.kicad_sch</source>
+        <source>PicoDrive.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -101,11 +101,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -116,11 +118,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -131,11 +135,13 @@
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <fields>
         <field name="Mfr. No">UVZ1J101MPD</field>
+        <field name="Mouser No">647-UVZ1J101MPD</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Mouser No" value="647-UVZ1J101MPD"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -146,11 +152,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -161,11 +169,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -176,11 +186,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -191,11 +203,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -206,11 +220,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -221,11 +237,13 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -235,8 +253,9 @@
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
       <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
@@ -246,8 +265,9 @@
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
       <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
@@ -257,8 +277,9 @@
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
       <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
@@ -268,8 +289,9 @@
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_4.3mm_M4</footprint>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Mounting Hole without connection"/>
       <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
@@ -280,11 +302,13 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -295,11 +319,13 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -310,11 +336,13 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -325,11 +353,13 @@
       <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
       <fields>
         <field name="Mfr. No">61201021621</field>
+        <field name="Mouser No">710-61201021621</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="61201021621"/>
+      <property name="Mouser No" value="710-61201021621"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -339,8 +369,9 @@
       <value>Conn_01x05</value>
       <footprint>Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
@@ -350,8 +381,9 @@
       <value>SolderJumper_3_Bridged12</value>
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
       <property name="ki_keywords" value="Solder Jumper SPDT"/>
       <sheetpath names="/" tstamps="/"/>
@@ -361,8 +393,9 @@
       <value>SolderJumper_3_Bridged12</value>
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
       <property name="ki_keywords" value="Solder Jumper SPDT"/>
       <sheetpath names="/" tstamps="/"/>
@@ -372,8 +405,9 @@
       <value>SolderJumper_3_Bridged12</value>
       <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels</footprint>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
       <property name="ki_keywords" value="Solder Jumper SPDT"/>
       <sheetpath names="/" tstamps="/"/>
@@ -383,16 +417,14 @@
       <value>P78E03-1000</value>
       <footprint>P78E03-1000:CONV_P78E03-1000</footprint>
       <fields>
-        <field name="MANUFACTURER">CUI Inc</field>
         <field name="Mfr. No">P78E03-1000</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="Mouser No">490-P78E03-1000</field>
       </fields>
       <libsource lib="P78E03-1000" part="P78E03-1000" description=""/>
-      <property name="STANDARD" value="Manufacturer Recommendations"/>
-      <property name="MANUFACTURER" value="CUI Inc"/>
       <property name="Mfr. No" value="P78E03-1000"/>
+      <property name="Mouser No" value="490-P78E03-1000"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>263196c2-0eb7-4a78-95e1-646a37a335ca</tstamps>
     </comp>
@@ -402,11 +434,13 @@
       <datasheet>https://www.mouser.co.uk/datasheet/2/916/PSMN4R5_30YLC-2938954.pdf</datasheet>
       <fields>
         <field name="Mfr. No">PSMN4R5-30YLC,115</field>
+        <field name="Mouser No">771-PSMN4R5-30YLC115</field>
       </fields>
       <libsource lib="Transistor_FET" part="PSMN5R2-60YL" description="100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56"/>
       <property name="Mfr. No" value="PSMN4R5-30YLC,115"/>
+      <property name="Mouser No" value="771-PSMN4R5-30YLC115"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56"/>
       <property name="ki_keywords" value="N-Channel MOSFET"/>
       <sheetpath names="/" tstamps="/"/>
@@ -417,11 +451,13 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRCW08051K65FKEA</field>
+        <field name="Mouser No">71-CRCW0805-1.65K-E3</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRCW08051K65FKEA"/>
+      <property name="Mouser No" value="71-CRCW0805-1.65K-E3"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -432,11 +468,13 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRCW08051K65FKEA</field>
+        <field name="Mouser No">71-CRCW0805-1.65K-E3</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRCW08051K65FKEA"/>
+      <property name="Mouser No" value="71-CRCW0805-1.65K-E3"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -447,11 +485,13 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">RCC0805100RFKEA</field>
+        <field name="Mouser No">71-RCC0805100RFKEA</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="RCC0805100RFKEA"/>
+      <property name="Mouser No" value="71-RCC0805100RFKEA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -462,11 +502,13 @@
       <footprint>Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">MSMA2512R0050FEN</field>
+        <field name="Mouser No">504-MSMA2512R0050FEN</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="MSMA2512R0050FEN"/>
+      <property name="Mouser No" value="504-MSMA2512R0050FEN"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -477,11 +519,13 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">RCC080510R0FKEA</field>
+        <field name="Mouser No">71-RCC080510R0FKEA</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="RCC080510R0FKEA"/>
+      <property name="Mouser No" value="71-RCC080510R0FKEA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -492,11 +536,13 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">RCC080510R0FKEA</field>
+        <field name="Mouser No">71-RCC080510R0FKEA</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="RCC080510R0FKEA"/>
+      <property name="Mouser No" value="71-RCC080510R0FKEA"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
@@ -507,26 +553,47 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+        <field name="Mouser No">652-CRS0805FX1002ELF</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Mouser No" value="652-CRS0805FX1002ELF"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9dcef37f-62ed-4f5b-b6fc-a83f7a03fb4a</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+        <field name="Mouser No">652-CRS0805FX1002ELF</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Mouser No" value="652-CRS0805FX1002ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>225c47c8-62f8-4676-b056-4e3df39d2e7b</tstamps>
     </comp>
     <comp ref="RN1">
       <value>10k</value>
       <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
       <fields>
         <field name="Mfr. No">YC324-JK-0710KL</field>
+        <field name="Mouser No">603-YC324-JK-0710KL</field>
       </fields>
       <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
       <property name="Mfr. No" value="YC324-JK-0710KL"/>
+      <property name="Mouser No" value="603-YC324-JK-0710KL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="4 resistor network, parallel topology"/>
       <property name="ki_keywords" value="R network parallel topology isolated"/>
       <sheetpath names="/" tstamps="/"/>
@@ -536,8 +603,9 @@
       <value>rp2040-zero</value>
       <footprint>KLEEB_mcu:rp2040-zero-tht</footprint>
       <libsource lib="KLEEB_mcu" part="rp2040-zero" description=""/>
+      <property name="Mouser No" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d2d300b2-e0f2-47eb-8a7d-a04b8b9e660d</tstamps>
     </comp>
@@ -547,11 +615,13 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tca9554.pdf</datasheet>
       <fields>
         <field name="Mfr. No">TCA9554DWR</field>
+        <field name="Mouser No">595-TCA9554DWR</field>
       </fields>
       <libsource lib="Interface_Expansion" part="TCA9554DB" description="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
       <property name="Mfr. No" value="TCA9554DWR"/>
+      <property name="Mouser No" value="595-TCA9554DWR"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
       <property name="ki_keywords" value="SMBUS I2C Expander"/>
       <sheetpath names="/" tstamps="/"/>
@@ -563,11 +633,13 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tca9554.pdf</datasheet>
       <fields>
         <field name="Mfr. No">TCA9554DWR</field>
+        <field name="Mouser No">595-TCA9554DWR</field>
       </fields>
       <libsource lib="Interface_Expansion" part="TCA9554DB" description="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
       <property name="Mfr. No" value="TCA9554DWR"/>
+      <property name="Mouser No" value="595-TCA9554DWR"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
       <property name="ki_keywords" value="SMBUS I2C Expander"/>
       <sheetpath names="/" tstamps="/"/>
@@ -579,11 +651,13 @@
       <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/4357fd.pdf</datasheet>
       <fields>
         <field name="Mfr. No">LTC4357CMS8#PBF</field>
+        <field name="Mouser No">584-LTC4357CMS8#PBF</field>
       </fields>
       <libsource lib="Power_Management" part="LTC4357MS8" description="Ideal diode controller, 9-80V operation, MSOP-8"/>
       <property name="Mfr. No" value="LTC4357CMS8#PBF"/>
+      <property name="Mouser No" value="584-LTC4357CMS8#PBF"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Ideal diode controller, 9-80V operation, MSOP-8"/>
       <property name="ki_keywords" value="ideal-diode or-ing"/>
       <sheetpath names="/" tstamps="/"/>
@@ -595,11 +669,13 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/ina219.pdf</datasheet>
       <fields>
         <field name="Mfr. No">INA219BIDR</field>
+        <field name="Mouser No">595-INA219BIDR</field>
       </fields>
       <libsource lib="Sensor_Energy" part="INA219BxD" description="Zero-Drift, HighAccuracy, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
       <property name="Mfr. No" value="INA219BIDR"/>
+      <property name="Mouser No" value="595-INA219BIDR"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="BioRobotics Tank PCB.kicad_sch"/>
+      <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="Zero-Drift, HighAccuracy, Bidirectional Current/Power Monitor (0-26V) With I2C Interface, SOIC-8"/>
       <property name="ki_keywords" value="ADC I2C 16-Bit Oversampling Current Shunt"/>
       <sheetpath names="/" tstamps="/"/>
@@ -610,9 +686,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -625,9 +703,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -640,9 +720,11 @@
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <fields>
         <field name="Mfr. No">UVZ1J101MPD</field>
+        <field name="Mouser No">647-UVZ1J101MPD</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Mouser No" value="647-UVZ1J101MPD"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
@@ -655,9 +737,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -670,9 +754,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">KAF21BR72D102MT</field>
+        <field name="Mouser No">581-KAF21BR72D102MT</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Mouser No" value="581-KAF21BR72D102MT"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -685,9 +771,11 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -700,9 +788,11 @@
       <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">ERJ-D1CFR200U</field>
+        <field name="Mouser No">667-ERJ-D1CFR200U</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Mouser No" value="667-ERJ-D1CFR200U"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -715,9 +805,11 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+        <field name="Mouser No">652-CRS0805FX1002ELF</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Mouser No" value="652-CRS0805FX1002ELF"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -726,14 +818,16 @@
       <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
     </comp>
     <comp ref="U2">
-      <value>DRV8801PWP</value>
+      <value>DRV8801PWPR</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
       <fields>
-        <field name="Mfr. No">DRV8801PWP</field>
+        <field name="Mfr. No">DRV8801PWPR</field>
+        <field name="Mouser No">595-DRV8801PWPR</field>
       </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
-      <property name="Mfr. No" value="DRV8801PWP"/>
+      <property name="Mfr. No" value="DRV8801PWPR"/>
+      <property name="Mouser No" value="595-DRV8801PWPR"/>
       <property name="Sheetname" value="Motor 1 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -746,9 +840,11 @@
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <fields>
         <field name="Mfr. No">UVZ1J101MPD</field>
+        <field name="Mouser No">647-UVZ1J101MPD</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Mouser No" value="647-UVZ1J101MPD"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
@@ -761,9 +857,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -776,9 +874,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -791,9 +891,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -806,9 +908,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">KAF21BR72D102MT</field>
+        <field name="Mouser No">581-KAF21BR72D102MT</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Mouser No" value="581-KAF21BR72D102MT"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -821,9 +925,11 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -836,9 +942,11 @@
       <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">ERJ-D1CFR200U</field>
+        <field name="Mouser No">667-ERJ-D1CFR200U</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Mouser No" value="667-ERJ-D1CFR200U"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -851,9 +959,11 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+        <field name="Mouser No">652-CRS0805FX1002ELF</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Mouser No" value="652-CRS0805FX1002ELF"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -862,14 +972,16 @@
       <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
     </comp>
     <comp ref="U3">
-      <value>DRV8801PWP</value>
+      <value>DRV8801PWPR</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
       <fields>
-        <field name="Mfr. No">DRV8801PWP</field>
+        <field name="Mfr. No">DRV8801PWPR</field>
+        <field name="Mouser No">595-DRV8801PWPR</field>
       </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
-      <property name="Mfr. No" value="DRV8801PWP"/>
+      <property name="Mfr. No" value="DRV8801PWPR"/>
+      <property name="Mouser No" value="595-DRV8801PWPR"/>
       <property name="Sheetname" value="Motor 2 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -882,9 +994,11 @@
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <fields>
         <field name="Mfr. No">UVZ1J101MPD</field>
+        <field name="Mouser No">647-UVZ1J101MPD</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Mouser No" value="647-UVZ1J101MPD"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
@@ -897,9 +1011,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -912,9 +1028,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -927,9 +1045,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -942,9 +1062,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">KAF21BR72D102MT</field>
+        <field name="Mouser No">581-KAF21BR72D102MT</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Mouser No" value="581-KAF21BR72D102MT"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -957,9 +1079,11 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -972,9 +1096,11 @@
       <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">ERJ-D1CFR200U</field>
+        <field name="Mouser No">667-ERJ-D1CFR200U</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Mouser No" value="667-ERJ-D1CFR200U"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -987,9 +1113,11 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+        <field name="Mouser No">652-CRS0805FX1002ELF</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Mouser No" value="652-CRS0805FX1002ELF"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -998,14 +1126,16 @@
       <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
     </comp>
     <comp ref="U4">
-      <value>DRV8801PWP</value>
+      <value>DRV8801PWPR</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
       <fields>
-        <field name="Mfr. No">DRV8801PWP</field>
+        <field name="Mfr. No">DRV8801PWPR</field>
+        <field name="Mouser No">595-DRV8801PWPR</field>
       </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
-      <property name="Mfr. No" value="DRV8801PWP"/>
+      <property name="Mfr. No" value="DRV8801PWPR"/>
+      <property name="Mouser No" value="595-DRV8801PWPR"/>
       <property name="Sheetname" value="Motor 3 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -1018,9 +1148,11 @@
       <footprint>Capacitor_THT:CP_Radial_D10.0mm_P5.00mm</footprint>
       <fields>
         <field name="Mfr. No">UVZ1J101MPD</field>
+        <field name="Mouser No">647-UVZ1J101MPD</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Mfr. No" value="UVZ1J101MPD"/>
+      <property name="Mouser No" value="647-UVZ1J101MPD"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Polarized capacitor"/>
@@ -1033,9 +1165,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1048,9 +1182,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1063,9 +1199,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">08055C104JAT2A</field>
+        <field name="Mouser No">581-08055C104J</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="08055C104JAT2A"/>
+      <property name="Mouser No" value="581-08055C104J"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1078,9 +1216,11 @@
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">KAF21BR72D102MT</field>
+        <field name="Mouser No">581-KAF21BR72D102MT</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Mfr. No" value="KAF21BR72D102MT"/>
+      <property name="Mouser No" value="581-KAF21BR72D102MT"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -1093,9 +1233,11 @@
       <footprint>TB009-508-02BE:CUI_TB009-508-02BE</footprint>
       <fields>
         <field name="Mfr. No">TB009-508-02BE</field>
+        <field name="Mouser No">490-TB009-508-02BE</field>
       </fields>
       <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Mfr. No" value="TB009-508-02BE"/>
+      <property name="Mouser No" value="490-TB009-508-02BE"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -1108,9 +1250,11 @@
       <footprint>Resistor_SMD:R_1020_2550Metric_Pad1.33x5.20mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">ERJ-D1CFR200U</field>
+        <field name="Mouser No">667-ERJ-D1CFR200U</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="ERJ-D1CFR200U"/>
+      <property name="Mouser No" value="667-ERJ-D1CFR200U"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1123,9 +1267,11 @@
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <fields>
         <field name="Mfr. No">CRS0805-FX-1002ELF</field>
+        <field name="Mouser No">652-CRS0805FX1002ELF</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Mfr. No" value="CRS0805-FX-1002ELF"/>
+      <property name="Mouser No" value="652-CRS0805FX1002ELF"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1134,14 +1280,16 @@
       <tstamps>179e4553-98ca-4367-842e-e100e6fff95b</tstamps>
     </comp>
     <comp ref="U5">
-      <value>DRV8801PWP</value>
+      <value>DRV8801PWPR</value>
       <footprint>Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/drv8801.pdf</datasheet>
       <fields>
-        <field name="Mfr. No">DRV8801PWP</field>
+        <field name="Mfr. No">DRV8801PWPR</field>
+        <field name="Mouser No">595-DRV8801PWPR</field>
       </fields>
       <libsource lib="Driver_Motor" part="DRV8801PWP" description="H-Bridge Motor Driver, TSSOP-16"/>
-      <property name="Mfr. No" value="DRV8801PWP"/>
+      <property name="Mfr. No" value="DRV8801PWPR"/>
+      <property name="Mouser No" value="595-DRV8801PWPR"/>
       <property name="Sheetname" value="Motor 4 Driver"/>
       <property name="Sheetfile" value="Motor Driver.kicad_sch"/>
       <property name="ki_description" value="H-Bridge Motor Driver, TSSOP-16"/>
@@ -1536,6 +1684,7 @@
       <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
       <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
       <node ref="PS1" pin="3" pinfunction="+VOUT/GND" pintype="power_in"/>
+      <node ref="R16" pin="2" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="U1" pin="21" pinfunction="3V3" pintype="power_out"/>
@@ -1733,6 +1882,7 @@
       <node ref="U5" pin="8" pinfunction="SENSE" pintype="power_out"/>
     </net>
     <net code="45" name="/~{EXP1_INT}">
+      <node ref="R16" pin="1" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="6" pintype="bidirectional"/>
       <node ref="U6" pin="13" pinfunction="~{INT}" pintype="open_collector"/>
     </net>

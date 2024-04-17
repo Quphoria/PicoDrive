@@ -18,6 +18,6 @@
 "17","RN1","1","10k","Resistor_SMD:R_Array_Convex_4x1206","","603-YC324-JK-0710KL"
 "18","U1","1","rp2040-zero","KLEEB_mcu:rp2040-zero-tht","",""
 "19","U2, U3, U4, U5","4","DRV8801PWPR","Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias","","595-DRV8801PWPR"
-"20","U6, U7","2","TCA9554DB","Package_SO:SSOP-16_5.3x6.2mm_P0.65mm","","595-TCA9554DWR"
+"20","U6, U7","2","TCA9554DB","Package_SO:SSOP-16_5.3x6.2mm_P0.65mm","","595-TCA9554DBR"
 "21","U8","1","LTC4357MS8","Package_SO:MSOP-8_3x3mm_P0.65mm","","584-LTC4357CMS8#PBF"
 "22","U9","1","INA219BIDR","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","","595-INA219BIDR"

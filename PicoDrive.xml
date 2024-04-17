@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\TNT_SAMUEL\Documents\KiCad\7.0\projects\BioRobotics Tank PCB\PicoDrive.kicad_sch</source>
-    <date>02/04/2024 22:50:19</date>
+    <date>17/04/2024 21:06:41</date>
     <tool>Eeschema (7.0.0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -614,12 +614,12 @@
       <footprint>Package_SO:SSOP-16_5.3x6.2mm_P0.65mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tca9554.pdf</datasheet>
       <fields>
-        <field name="Mfr. No">TCA9554DWR</field>
-        <field name="Mouser No">595-TCA9554DWR</field>
+        <field name="Mfr. No">TCA9554DBR</field>
+        <field name="Mouser No">595-TCA9554DBR</field>
       </fields>
       <libsource lib="Interface_Expansion" part="TCA9554DB" description="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
-      <property name="Mfr. No" value="TCA9554DWR"/>
-      <property name="Mouser No" value="595-TCA9554DWR"/>
+      <property name="Mfr. No" value="TCA9554DBR"/>
+      <property name="Mouser No" value="595-TCA9554DBR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
@@ -632,12 +632,12 @@
       <footprint>Package_SO:SSOP-16_5.3x6.2mm_P0.65mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tca9554.pdf</datasheet>
       <fields>
-        <field name="Mfr. No">TCA9554DWR</field>
-        <field name="Mouser No">595-TCA9554DWR</field>
+        <field name="Mfr. No">TCA9554DBR</field>
+        <field name="Mouser No">595-TCA9554DBR</field>
       </fields>
       <libsource lib="Interface_Expansion" part="TCA9554DB" description="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
-      <property name="Mfr. No" value="TCA9554DWR"/>
-      <property name="Mouser No" value="595-TCA9554DWR"/>
+      <property name="Mfr. No" value="TCA9554DBR"/>
+      <property name="Mouser No" value="595-TCA9554DBR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="PicoDrive.kicad_sch"/>
       <property name="ki_description" value="8 Bit Port/Expander, I2C SMBUS, Interrupt output, SSOP-16"/>
